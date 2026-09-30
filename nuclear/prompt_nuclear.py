@@ -18,22 +18,23 @@ STYLE = ("Flat 2D cartoon illustration, thick black outlines, flat colours, no s
          "no gradients, 16:9. A friendly palette of flat, real colours: soft teal, warm wood, "
          "cream, muted green, clay and grey-blue, never washed out and never grey all over. "
          "The one subject of the shot carries the strongest and warmest colour in the frame. ")
-ROOM_LOOK = ("The place is calm, tidy and minimal: walls, floor, two or three large pieces of "
-             "furniture and one green plant or similar spot of life. The wall, the floor and the "
-             "furniture are NOT all the same colour: the place uses at least three different flat "
-             "colours. No crowd of small props, no busy detail. ")
+ROOM_LOOK = ("The place is calm, tidy and minimal. Draw only the things named in the place and shot "
+             "descriptions: no extra furniture, no cabinets, no benches, no potted plants and no household "
+             "objects unless they are named. Walls, floor and objects use at least three different flat colours, "
+             "so the picture never looks like a single pale wash. ")
 SUBJECT = "One single subject fills about half the frame, with the strongest colour and the highest contrast. "
-PEOPLE = "Only the characters named below are in the shot; nobody else unless the shot says so. "
+PEOPLE = "Only the characters named in the shot description appear; never add extra people or animals. "
 NOTEXT = ("NO TEXT, no letters, no numbers, no labels anywhere in the image. No brand logos. "
           "A plain radiation trefoil symbol without letters is allowed. ")
-BAKE_LINE = ("Written large across the main object of this shot, %s, is this and nothing else: %s. "
-             "Spell it exactly like that. The lettering is big enough to read at a glance, taking up a "
-             "large part of the frame, even if the object it is on has to be drawn bigger or closer. "
-             "There is no other writing anywhere in the picture. No brand logos. ")
+BAKE_LINE = ("Written large directly on the object named in the shot description, %s, is this and nothing else: %s. "
+             "Spell it exactly like that. The lettering is part of that object itself: do NOT add a separate sign, "
+             "board, banner, panel or label for it. It is big enough to read at a glance, even if the object has to "
+             "be drawn bigger or closer. There is no other writing, no other numbers and no small print anywhere in "
+             "the picture. No brand logos. ")
 TEXT_WORD = "in clean bold black capitals"
 TEXT_NUM = ["in huge bold red numerals with a thick white outline",
-            "in huge bold white numerals on a bright red panel",
-            "in huge bold white numerals on a teal panel"]
+            "in huge bold black numerals",
+            "in huge bold white numerals with a thick black outline"]
 
 # ---------------------------------------------------------------- персонажи
 COON = ("The raccoon is the channel mascot: a cartoon raccoon standing upright like a person, "
@@ -53,6 +54,12 @@ PEOPLE_LOOK = ("Every human is drawn as a simple cartoon person with a plain rou
                "white eyes with small black pupils, in the same flat style. ")
 
 
+HUMAN = re.compile(r"\b(man|men|worker|workers|person|people|soldiers?|operators?|technicians?|engineer|journalist|"
+                   r"writer|researcher|doctor|patient|family|crowd|recruiter|reporter|driver|boss|landlady|staff|"
+                   r"class|homeless|guard|timekeeper|plant manager|jumper|hand|hands)\b")
+NOBODY = "There are no people and no animals anywhere in this shot. "
+
+
 def cast(what):
     w = what.lower()
     out = []
@@ -63,7 +70,10 @@ def cast(what):
         out.append(TIMER)
     if "plant manager" in w:
         out.append(MANAGER)
-    out.append(PEOPLE_LOOK)
+    if HUMAN.search(w):
+        out.append(PEOPLE_LOOK)
+    elif "raccoon" not in w:
+        out.append(NOBODY)
     return "".join(out)
 
 
