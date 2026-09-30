@@ -30,7 +30,7 @@ S(5, 5, "bowl", "Inside a dark curved steel dome, the walls glowing a sickly gre
 S(6, 6, "office", "A big paper wall calendar whose grid is only empty squares with no printed words or numbers, a huge red marker ring drawn around the whole grid, and the text written in thick red marker inside the ring, seen close.", "5 REM")
 S(7, 7, "platform", "The timekeeper's big silver stopwatch seen close, a plain dial with no numbers, and a white paper tag tied to the stopwatch with the text printed on the tag.", "12 MIN")
 S(8, 8, "platform", "The raccoon in the yellow suit looking at a big wall calendar whose pages are flying off one after another.")
-S(9, 9, "platform", "The raccoon in the yellow suit diving headfirst up into the round manway hole, only his legs and air hose still visible below.")
+S(9, 9, "platform", "The raccoon in the yellow suit climbing up a short ladder into the round manway hole above him, arms raised, his helmet and shoulders already inside the opening, his yellow boots on the top rung, the air hose trailing behind.")
 S(9, 9, "bowl", "Inside the dark steel bowl, the raccoon in the yellow suit pushing a heavy round metal plug into a big pipe opening with both arms.")
 S(10, 10, "locker", "Three workers in yellow plastic suits standing in a row in a changing room, helmets under their arms, all looking at the viewer.")
 S(11, 11, "locker_old", "A 1970s locker room, workers in white paper coveralls laughing, a faint cartoon green glow drawn around one of them as a joke.")
