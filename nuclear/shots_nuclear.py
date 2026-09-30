@@ -25,7 +25,7 @@ S(1, 2, "platform", "A small round manway hole in a giant curved steel tank, see
 S(3, 3, "platform", "The raccoon in the yellow suit seen full length from the front, arms slightly out, the suit puffed up with air, a thick air hose running from his back.")
 S(3, 3, "platform", "The timekeeper standing beside the raccoon in the yellow suit, holding up a big silver stopwatch with his thumb on the button.")
 S(4, 4, "plant", "Wide view of a nuclear power plant at dusk, two big cooling towers with white steam, a domed reactor building beside them.")
-S(4, 4, "cutaway", "A simple cutaway drawing of a tall steam generator tank, the round bowl at its bottom glowing faint green, a tiny raccoon in a yellow suit on a platform under it.")
+S(4, 4, "cutaway", "A simple cutaway drawing of a giant steel steam generator tank as tall as a five-storey building, shaped like a very tall capsule standing upright, its outer wall cut away to show thousands of thin vertical tubes inside and a rounded bowl at the very bottom glowing faint green. At its foot, tiny next to it, the raccoon in the yellow suit stands on a small steel platform looking up. Wide view, the whole tank fits in the frame.")
 S(5, 5, "bowl", "Inside a dark curved steel dome, the walls glowing a sickly green, faint wavy lines of radiation drifting in the air.")
 S(6, 6, "office", "A big paper wall calendar whose grid is only empty squares with no printed words or numbers, a huge red marker ring drawn around the whole grid, and the text written in thick red marker inside the ring, seen close.", "5 REM")
 S(7, 7, "platform", "The timekeeper's big silver stopwatch seen close, a plain dial with no numbers, and a white paper tag tied to the stopwatch with the text printed on the tag.", "12 MIN")
