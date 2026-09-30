@@ -176,7 +176,7 @@ def main():
     flow = [i for i, s in enumerate(SHOTS) if s["mode"] != "chart"]
     out.append("ПРОМПТЫ ДЛЯ FLOW — «Nuclear Plants Hired Him for 12 Minutes»")
     out.append("Nano Banana 2 · 16:9 · x1. Один промпт = одна картинка. Пачки по 10, после пачки скачать в 2K.")
-    out.append("Имя файла при сохранении = номер кадра (d001.jpg …).")
+    out.append("Имя файла при сохранении = номер кадра (n001.jpg …).")
     out.append("")
     for k, i in enumerate(flow):
         if k % 10 == 0:
