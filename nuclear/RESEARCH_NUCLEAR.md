@@ -105,3 +105,11 @@
 - [ROSA III — OSTI](https://www.osti.gov/etdeweb/biblio/21154437)
 - [Utility Dive: Palisades, TMI restarts](https://www.utilitydive.com/news/palisades-three-mile-island-duane-arnold-nuclear-reactor-restart-holtec-nextera-constellation-nrc/730393/)
 - [World Nuclear News: Crane restart](https://www.world-nuclear-news.org/articles/crane-clean-energy-centre-on-line-for-ahead-of-schedule-restart)
+
+## 8. Общеизвестное, использовано в сценарии (сверить перед публикацией)
+
+- Nozzle dams ставят во время перегрузки топлива, чтобы затопить бассейн над реактором и одновременно работать в парогенераторе.
+- Перегрузка топлива на АЭС США — раз в 18–24 месяца.
+- Главный источник дозы в чаше — продукты коррозии, активированные в активной зоне, прежде всего кобальт-60.
+- Three Mile Island-1 закрыт в 2019 году; контракт Constellation с Microsoft подписан в 2024 году.
+- 5 rem не вызывают лучевой болезни (порог острых эффектов — сотни rem / единицы Гр).

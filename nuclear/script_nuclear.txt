@@ -1,0 +1,103 @@
+Here's the deal.
+You're standing on a steel platform inside a concrete building, and a few feet above your head there's a round hole about sixteen inches across.
+You're wearing a yellow plastic suit that covers you from the soles of your feet to the top of your head, fresh air hisses in through a hose, and the man next to you is holding a stopwatch.
+On the other side of that hole is the bottom of a steam generator inside a nuclear power plant.
+In there, the radiation runs somewhere between five and twenty-five rem an hour.
+The legal limit for a nuclear worker in the United States is five rem for the whole year.
+Take the worst end of that range, do the division, and you get twelve minutes.
+Twelve minutes in there uses up everything the law lets your body take for the next twelve months.
+You're going in headfirst, you're going to bolt a heavy plug into a pipe wide enough to crawl through, and you're coming back out when the man with the stopwatch says so.
+The industry calls people who do this jumpers.
+Back in the seventies, a lot of them had another nickname, the glow boys.
+Keep an eye on the corner of the screen, because that number is your dose.
+Right now it's zero, and the bar next to it shows what an average American picks up in a whole year from rocks, air, food and medical scans.
+By the end of this video you'll know who these men were, why the plants hired them for minutes instead of years, what it did to their bodies, and why the reactors coming back online right now still need people who'll climb through that hole.
+
+A nuclear plant like the ones built across America in the 1970s makes electricity with two separate loops of water.
+The first loop runs straight through the reactor core, picks up heat, and carries along anything radioactive the water can drag with it.
+That water flows into the steam generator, a steel tank several stories tall packed with thousands of thin tubes, and it heats a second loop of clean water that turns to steam and spins the turbine.
+The reactor water enters at the bottom, into a curved chamber the industry calls the channel head, and the workers call the bowl.
+Over months of running, tiny bits of metal worn off the pipes ride through the core, turn radioactive, and settle on the walls of that bowl.
+The worst of them is cobalt-60, which keeps throwing off gamma rays for years after the reactor is switched off.
+So every time the plant shuts down for refueling, usually every eighteen months to two years, that bowl is one of the hottest places a person is legally allowed to go.
+And during that shutdown, somebody has to go there.
+The crew wants to flood the pool above the reactor so it can move fuel underwater, and at the same time it wants to open up the steam generator to inspect its tubes.
+To do both at once, the big pipes between the reactor and the steam generator have to be sealed from the inside with plugs called nozzle dams.
+Today, robots and remote tools handle a lot of that job.
+For decades, a man in a plastic suit did it with his own hands.
+
+Every worker at a nuclear plant wears a dosimeter, and every bit of radiation it records goes into a file with their name on it.
+Before 1994, federal rules allowed three rem in any three-month stretch, with a lifetime cap tied to your age.
+Since 1994, the cap has been five rem in a year.
+Five rem is fifty millisieverts, and the average American gets about six millisieverts a year from everything combined.
+A chest X-ray is about two hundredths of a millisievert.
+So one year at the legal limit adds up to roughly eight years of ordinary life, or around two and a half thousand chest X-rays.
+Now look at it from the plant's side of the desk.
+A trained technician who burns through his whole year in the bowl can't do his regular job for months, because his regular job involves radiation too.
+The plant would be losing a skilled man to save a few minutes of work.
+It's much cheaper to bring in someone whose file still says zero, let him spend the entire year's allowance in one afternoon, and send him home.
+What the plant is really buying is the empty space in that file.
+
+By the late 1970s, American nuclear plants were bringing in temporary workers by the thousands.
+They mopped up spills, scrubbed contaminated floors, hunted for leaks, welded pipe and hauled radioactive waste in drums.
+The regular staff had names for them: glow boys, gamma sponges, nuclear nomads.
+In the early eighties, a freelance journalist named Paul Bagne went through the federal numbers and found something that didn't add up.
+Between 1978 and 1980, the electricity coming out of American nuclear plants actually went down, while the number of workers exposed to radiation went from forty-four thousand to seventy-seven thousand.
+Nearly half of them were temporary.
+The plants were making less power and spreading the radiation across far more bodies to do it.
+Critics at the time claimed that some of these men moved from plant to plant, and when they hit the limit at one, they signed on at the next.
+So why would anyone volunteer for this?
+One account in a California paper put it in plain words: "They do it because it pays well. Maybe they make a jump and then have some extra money for a vacation that year, or maybe it helps them through rough times in between jobs."
+For some men that meant a trip somewhere warm, and for others it meant rent in the gap between two jobs.
+Some jumpers were regular employees who chose to do it.
+At the Diablo Canyon plant on the California coast, a mechanical engineer named David Beals volunteered to jump five times in four years, and ended up teaching other people how to do it.
+They practiced on a full-size model of the bowl: climb the ladder, stand on the platform under the sixteen-inch hole, raise both arms, and push yourself through headfirst in the suit.
+Every movement gets rehearsed on the model, because inside the real one, a dropped bolt costs you dose.
+Westinghouse started sending a robot arm called ROSA into steam generators in the early 1980s, and each new generation of remote tools took more of this work away from people.
+Robots jam, though, bolts seize, and some jobs still needed a person in the bowl, which is why Diablo Canyon was still training jumpers in the 2000s.
+
+If you want to see where this logic ends up when fewer people are watching, look at Japan.
+In 1979, a Japanese writer named Kunio Horie published a book about the contract laborers who did the dirtiest work at the country's nuclear plants.
+He called them nuclear gypsies, and the name stuck.
+Many of them came from day-labor corners, where unemployed men waited every morning for someone to offer them a shift.
+Then came March 2011 and the meltdowns at Fukushima Daiichi.
+In the weeks after the disaster, reports said workers were being offered two hundred thousand yen a day, about twenty-five hundred dollars, to go into the damaged reactors.
+A twenty-seven-year-old named Ryuta Fujita said he was offered twice that.
+Reuters later interviewed more than three dozen workers at the site, and only one of them said he'd received the full hazard pay increase he was promised.
+On the payslips Reuters saw, the hazard allowance came to somewhere between thirty-six and ninety dollars a day.
+Two years later, Reuters followed the money into the cleanup around the plant.
+A recruiter named Seiji Sasa told reporters he went to the train station in Sendai before dawn to look for homeless men, and he got a hundred dollars for each one he delivered.
+Those men cleared radioactive soil for contractors three layers below one of Japan's biggest construction companies, and after charges for food and a bed, some of them ended up earning less than the minimum wage.
+Twenty-five years before Fukushima, the Soviet Union ran its own version on the roof at Chernobyl.
+When the radiation fried the electronics in the robots sent to clear the debris, soldiers went up with shovels for about ninety seconds each, and they had a name for themselves too: bio-robots.
+Across three countries and forty years, the rule stayed the same: when the machine can't take the dose, a person with a clean file takes it instead.
+
+So what does a full year's dose do to the person who takes it?
+Nobody collapses from five rem.
+There's no radiation sickness, your hair stays on your head, and you climb out of the bowl feeling the same as when you went in.
+Whatever damage there is shows up as odds, years later.
+In 2023, the British Medical Journal published the largest study of its kind, called INWORKS.
+Researchers followed 309,932 nuclear workers in France, the United Kingdom and the United States, some of them for decades, and counted 28,089 deaths from solid cancers.
+The risk of dying from cancer climbed along with the dose, and it kept climbing even among workers whose lifetime total stayed under every limit you've heard about in this video.
+Their numbers work out to roughly a two to three percent higher relative risk of cancer death for one full year at the American limit.
+For a single jump, that's a small number.
+The trouble is that the whole system was built on men coming back, outage after outage and plant after plant, with each dose landing on the same file.
+
+This story didn't stay in the seventies.
+In 2019, the Unit 1 reactor at Three Mile Island in Pennsylvania shut down because it couldn't turn a profit.
+In 2024, its owner, Constellation, signed a twenty-year deal to sell that reactor's power to Microsoft for data centers running artificial intelligence.
+The plant has a new name, the Crane Clean Energy Center, a billion-dollar federal loan, and a target of coming back online around 2027.
+In Michigan, the Palisades plant got its operating license back in 2025.
+Every restarted reactor brings back refueling outages, and every outage brings in crews of contract workers who travel from plant to plant.
+Job boards right now list outage work at roughly twenty-three to seventy-three dollars an hour, and one posting offers a hundred and seventy-eight dollars a day in expenses, seven days a week.
+Most of those workers will never go near a steam generator bowl.
+In 2023, American plants monitored more than ninety-three thousand people, and the ones who picked up any measurable dose averaged about 0.16 rem, a small slice of the limit.
+Robots, better shielding and cleaner water chemistry did most of that work.
+The old arithmetic still holds, though: when a job is too hot for the machine, the plant goes looking for a person whose file still says zero.
+
+Look at the counter in the corner one more time.
+If you'd gone through that hole at the start of this video and stayed in there while I talked, you'd already be past the five rem the law allows for an entire year.
+The plant would have thanked you, paid you, and told you to come back next year.
+So here's my question for you.
+If someone offered you a few thousand dollars to spend twelve minutes in that bowl, would you take the jump?
+Tell me in the comments, and tell me what number it would take.
