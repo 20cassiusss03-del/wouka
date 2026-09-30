@@ -1,0 +1,96 @@
+  1   0.00   0.77  0.77с  0.75 Here's the deal.
+  2   1.18   9.58  8.40с  0.91 You're standing on a steel platform inside a concrete buildi
+  3  10.04  20.45 10.41с  0.86 You're wearing a yellow plastic suit that covers you from th
+  4  21.01  26.38  5.37с  0.88 On the other side of that hole is the bottom of a steam gene
+  5  26.92  31.69  4.77с  0.93 In there, the radiation runs somewhere between five and twen
+  6  32.13  37.11  4.98с  0.87 The legal limit for a nuclear worker in the United States is
+  7  37.66  42.49  4.83с  0.97 Take the worst end of that range, do the division, and you g
+  8  43.04  48.69  5.65с  0.90 Twelve minutes in there uses up everything the law lets your
+  9  49.20  58.82  9.62с  0.88 You're going in headfirst, you're going to bolt a heavy plug
+ 10  59.14  62.13  2.99с  1.01 The industry calls people who do this jumpers.
+ 11  62.45  67.01  4.56с  0.97 Back in the seventies, a lot of them had another nickname, t
+ 12  67.38  71.24  3.86с  0.81 Keep an eye on the corner of the screen, because that number
+ 13  71.58  80.78  9.20с  1.02 Right now it's zero, and the bar next to it shows what an av
+ 14  81.13  95.12 13.99с  0.91 By the end of this video you'll know who these men were, why
+ 15  95.46 102.60  7.14с  0.97 A nuclear plant like the ones built across America in the 19
+ 16 102.93 110.39  7.46с  0.86 The first loop runs straight through the reactor core, picks
+ 17 110.75 123.57 12.82с  1.01 That water flows into the steam generator, a steel tank seve
+ 18 124.02 131.71  7.69с  0.93 The reactor water enters at the bottom, into a curved chambe
+ 19 132.18 141.01  8.83с  0.98 Over months of running, tiny bits of metal worn off the pipe
+ 20 141.42 148.73  7.31с  1.02 The worst of them is cobalt-60, which keeps throwing off gam
+ 21 149.20 159.17  9.97с  0.93 So every time the plant shuts down for refueling, usually ev
+ 22 159.62 162.76  3.14с  0.96 And during that shutdown, somebody has to go there.
+ 23 163.21 172.98  9.77с  0.92 The crew wants to flood the pool above the reactor so it can
+ 24 173.25 181.70  8.45с  0.93 To do both at once, the big pipes between the reactor and th
+ 25 182.25 185.90  3.65с  1.02 Today, robots and remote tools handle a lot of that job.
+ 26 186.42 190.42  4.00с  0.99 For decades, a man in a plastic suit did it with his own han
+ 27 191.15 198.13  6.98с  0.85 Every worker at a nuclear plant wears a dosimeter, and every
+ 28 198.56 206.55  7.99с  1.13 Before 1994, federal rules allowed three rem in any three-mo
+ 29 207.04 210.91  3.87с  1.26 Since 1994, the cap has been five rem in a year.
+ 30 211.40 218.03  6.63с  0.87 Five rem is fifty millisieverts, and the average American ge
+ 31 218.60 221.69  3.09с  0.86 A chest X-ray is about two hundredths of a millisievert.
+ 32 222.20 230.27  8.07с  0.99 So one year at the legal limit adds up to roughly eight year
+ 33 230.94 233.25  2.31с  0.74 Now look at it from the plant's side of the desk.
+ 34 233.54 241.34  7.80с  0.81 A trained technician who burns through his whole year in the
+ 35 241.76 245.29  3.53с  0.79 The plant would be losing a skilled man to save a few minute
+ 36 245.49 253.20  7.71с  0.84 It's much cheaper to bring in someone whose file still says 
+ 37 253.66 257.06  3.40с  0.83 What the plant is really buying is the empty space in that f
+ 38 257.76 263.51  5.75с  0.94 By the late 1970s, American nuclear plants were bringing in 
+ 39 263.79 271.55  7.76с  1.00 They mopped up spills, scrubbed contaminated floors, hunted 
+ 40 271.93 277.61  5.68с  1.12 The regular staff had names for them: glow boys, gamma spong
+ 41 278.34 285.30  6.96с  0.80 In the early eighties, a freelance journalist named Paul Bag
+ 42 285.49 298.57 13.08с  1.01 Between 1978 and 1980, the electricity coming out of America
+ 43 298.75 300.56  1.81с  0.81 Nearly half of them were temporary.
+ 44 300.91 305.98  5.07с  0.84 The plants were making less power and spreading the radiatio
+ 45 306.32 313.11  6.79с  0.75 Critics at the time claimed that some of these men moved fro
+ 46 313.54 315.79  2.25с  0.90 So why would anyone volunteer for this?
+ 47 316.23 328.54 12.31с  0.83 One account in a California paper put it in plain words: "Th
+ 48 328.98 334.96  5.98с  0.90 For some men that meant a trip somewhere warm, and for other
+ 49 335.37 338.31  2.94с  0.83 Some jumpers were regular employees who chose to do it.
+ 50 338.61 350.28 11.67с  0.98 At the Diablo Canyon plant on the California coast, a mechan
+ 51 350.96 361.69 10.73с  0.91 They practiced on a full-size model of the bowl: climb the l
+ 52 362.34 368.40  6.06с  0.92 Every movement gets rehearsed on the model, because inside t
+ 53 369.29 379.81 10.52с  0.94 Westinghouse started sending a robot arm called ROSA into st
+ 54 380.71 390.33  9.62с  1.01 Robots jam, though, bolts seize, and some jobs still needed 
+ 55 391.04 395.83  4.79с  0.83 If you want to see where this logic ends up when fewer peopl
+ 56 396.11 405.87  9.76с  1.03 In 1979, a Japanese writer named Kunio Horie published a boo
+ 57 406.15 409.32  3.17с  0.97 He called them nuclear gypsies, and the name stuck.
+ 58 409.59 416.10  6.51с  0.86 Many of them came from day-labor corners, where unemployed m
+ 59 416.39 420.68  4.29с  1.12 Then came March 2011 and the meltdowns at Fukushima Daiichi.
+ 60 420.94 430.67  9.73с  0.88 In the weeks after the disaster, reports said workers were b
+ 61 430.96 435.71  4.75с  1.00 A twenty-seven-year-old named Ryuta Fujita said he was offer
+ 62 436.01 444.64  8.63с  0.87 Reuters later interviewed more than three dozen workers at t
+ 63 444.94 451.84  6.90с  0.96 On the payslips Reuters saw, the hazard allowance came to so
+ 64 452.15 456.05  3.90с  0.78 Two years later, Reuters followed the money into the cleanup
+ 65 456.27 467.00 10.73с  0.95 A recruiter named Seiji Sasa told reporters he went to the t
+ 66 467.28 480.61 13.33с  0.98 Those men cleared radioactive soil for contractors three lay
+ 67 480.92 487.16  6.24с  0.99 Twenty-five years before Fukushima, the Soviet Union ran its
+ 68 487.47 499.37 11.90с  0.96 When the radiation fried the electronics in the robots sent 
+ 69 499.67 508.88  9.21с  0.97 Across three countries and forty years, the rule stayed the 
+ 70 509.17 512.87  3.70с  0.93 So what does a full year's dose do to the person who takes i
+ 71 513.16 515.51  2.35с  1.18 Nobody collapses from five rem.
+ 72 515.72 522.39  6.67с  0.81 There's no radiation sickness, your hair stays on your head,
+ 73 522.79 526.31  3.52с  1.00 Whatever damage there is shows up as odds, years later.
+ 74 526.92 532.89  5.97с  1.00 In 2023, the British Medical Journal published the largest s
+ 75 533.30 548.05 14.75с  1.36 Researchers followed 309,932 nuclear workers in France, the 
+ 76 548.50 557.98  9.48с  0.83 The risk of dying from cancer climbed along with the dose, a
+ 77 558.32 565.79  7.47с  0.87 Their numbers work out to roughly a two to three percent hig
+ 78 566.22 568.42  2.20с  0.84 For a single jump, that's a small number.
+ 79 568.81 578.27  9.46с  0.98 The trouble is that the whole system was built on men coming
+ 80 578.97 581.05  2.08с  0.81 This story didn't stay in the seventies.
+ 81 581.32 588.59  7.27с  1.04 In 2019, the Unit 1 reactor at Three Mile Island in Pennsylv
+ 82 588.92 599.11 10.19с  1.05 In 2024, its owner, Constellation, signed a twenty-year deal
+ 83 599.43 608.78  9.35с  1.08 The plant has a new name, the Crane Clean Energy Center, a b
+ 84 609.20 614.27  5.07с  1.10 In Michigan, the Palisades plant got its operating license b
+ 85 614.46 623.44  8.98с  1.01 Every restarted reactor brings back refueling outages, and e
+ 86 623.65 635.87 12.22с  0.99 Job boards right now list outage work at roughly twenty-thre
+ 87 636.22 640.16  3.94с  0.96 Most of those workers will never go near a steam generator b
+ 88 640.56 653.41 12.85с  1.15 In 2023, American plants monitored more than ninety-three th
+ 89 654.15 659.01  4.86с  1.01 Robots, better shielding and cleaner water chemistry did mos
+ 90 659.75 668.59  8.84с  0.97 The old arithmetic still holds, though: when a job is too ho
+ 91 669.56 671.86  2.30с  0.75 Look at the counter in the corner one more time.
+ 92 672.13 682.06  9.93с  0.94 If you'd gone through that hole at the start of this video a
+ 93 682.83 686.99  4.16с  0.81 The plant would have thanked you, paid you, and told you to 
+ 94 687.62 689.33  1.71с  0.89 So here's my question for you.
+ 95 689.74 695.93  6.19с  0.89 If someone offered you a few thousand dollars to spend twelv
+ 96 696.51 699.55  3.04с  0.75 Tell me in the comments, and tell me what number it would ta

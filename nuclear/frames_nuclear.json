@@ -1,0 +1,1190 @@
+[
+ {
+  "id": "n001",
+  "start": 0.0,
+  "dur": 4.79,
+  "kind": "scene",
+  "img": "n001.jpg",
+  "chart": "",
+  "lines": "1-2"
+ },
+ {
+  "id": "n002",
+  "start": 4.79,
+  "dur": 5.25,
+  "kind": "scene",
+  "img": "n002.jpg",
+  "chart": "",
+  "lines": "1-2"
+ },
+ {
+  "id": "n003",
+  "start": 10.04,
+  "dur": 5.21,
+  "kind": "scene",
+  "img": "n003.jpg",
+  "chart": "",
+  "lines": "3-3"
+ },
+ {
+  "id": "n004",
+  "start": 15.24,
+  "dur": 5.77,
+  "kind": "scene",
+  "img": "n004.jpg",
+  "chart": "",
+  "lines": "3-3"
+ },
+ {
+  "id": "n005",
+  "start": 21.01,
+  "dur": 2.68,
+  "kind": "scene",
+  "img": "n005.jpg",
+  "chart": "",
+  "lines": "4-4"
+ },
+ {
+  "id": "n006",
+  "start": 23.7,
+  "dur": 3.23,
+  "kind": "scene",
+  "img": "n006.jpg",
+  "chart": "",
+  "lines": "4-4"
+ },
+ {
+  "id": "n007",
+  "start": 26.92,
+  "dur": 5.21,
+  "kind": "scene",
+  "img": "n007.jpg",
+  "chart": "",
+  "lines": "5-5"
+ },
+ {
+  "id": "n008",
+  "start": 32.13,
+  "dur": 5.53,
+  "kind": "bake",
+  "img": "n008.jpg",
+  "chart": "",
+  "lines": "6-6"
+ },
+ {
+  "id": "n009",
+  "start": 37.66,
+  "dur": 5.38,
+  "kind": "bake",
+  "img": "n009.jpg",
+  "chart": "",
+  "lines": "7-7"
+ },
+ {
+  "id": "n010",
+  "start": 43.04,
+  "dur": 6.16,
+  "kind": "scene",
+  "img": "n010.jpg",
+  "chart": "",
+  "lines": "8-8"
+ },
+ {
+  "id": "n011",
+  "start": 49.2,
+  "dur": 4.81,
+  "kind": "scene",
+  "img": "n011.jpg",
+  "chart": "",
+  "lines": "9-9"
+ },
+ {
+  "id": "n012",
+  "start": 54.01,
+  "dur": 5.13,
+  "kind": "scene",
+  "img": "n012.jpg",
+  "chart": "",
+  "lines": "9-9"
+ },
+ {
+  "id": "n013",
+  "start": 59.14,
+  "dur": 3.31,
+  "kind": "scene",
+  "img": "n013.jpg",
+  "chart": "",
+  "lines": "10-10"
+ },
+ {
+  "id": "n014",
+  "start": 62.45,
+  "dur": 4.93,
+  "kind": "scene",
+  "img": "n014.jpg",
+  "chart": "",
+  "lines": "11-11"
+ },
+ {
+  "id": "n015",
+  "start": 67.38,
+  "dur": 4.2,
+  "kind": "scene",
+  "img": "n015.jpg",
+  "chart": "",
+  "lines": "12-12"
+ },
+ {
+  "id": "n016",
+  "start": 71.58,
+  "dur": 4.6,
+  "kind": "scene",
+  "img": "n016.jpg",
+  "chart": "",
+  "lines": "13-13"
+ },
+ {
+  "id": "n017",
+  "start": 76.18,
+  "dur": 4.95,
+  "kind": "scene",
+  "img": "n017.jpg",
+  "chart": "",
+  "lines": "13-13"
+ },
+ {
+  "id": "n018",
+  "start": 81.13,
+  "dur": 4.66,
+  "kind": "scene",
+  "img": "n018.jpg",
+  "chart": "",
+  "lines": "14-14"
+ },
+ {
+  "id": "n019",
+  "start": 85.79,
+  "dur": 4.66,
+  "kind": "scene",
+  "img": "n019.jpg",
+  "chart": "",
+  "lines": "14-14"
+ },
+ {
+  "id": "n020",
+  "start": 90.46,
+  "dur": 5.0,
+  "kind": "scene",
+  "img": "n020.jpg",
+  "chart": "",
+  "lines": "14-14"
+ },
+ {
+  "id": "n021",
+  "start": 95.46,
+  "dur": 3.57,
+  "kind": "scene",
+  "img": "n021.jpg",
+  "chart": "",
+  "lines": "15-15"
+ },
+ {
+  "id": "n022",
+  "start": 99.03,
+  "dur": 3.9,
+  "kind": "scene",
+  "img": "n022.jpg",
+  "chart": "",
+  "lines": "15-15"
+ },
+ {
+  "id": "n023",
+  "start": 102.93,
+  "dur": 7.82,
+  "kind": "scene",
+  "img": "n023.jpg",
+  "chart": "",
+  "lines": "16-16"
+ },
+ {
+  "id": "n024",
+  "start": 110.75,
+  "dur": 6.41,
+  "kind": "scene",
+  "img": "n024.jpg",
+  "chart": "",
+  "lines": "17-17"
+ },
+ {
+  "id": "n025",
+  "start": 117.16,
+  "dur": 6.86,
+  "kind": "scene",
+  "img": "n025.jpg",
+  "chart": "",
+  "lines": "17-17"
+ },
+ {
+  "id": "n026",
+  "start": 124.02,
+  "dur": 8.16,
+  "kind": "scene",
+  "img": "n026.jpg",
+  "chart": "",
+  "lines": "18-18"
+ },
+ {
+  "id": "n027",
+  "start": 132.18,
+  "dur": 4.41,
+  "kind": "scene",
+  "img": "n027.jpg",
+  "chart": "",
+  "lines": "19-19"
+ },
+ {
+  "id": "n028",
+  "start": 136.59,
+  "dur": 4.82,
+  "kind": "scene",
+  "img": "n028.jpg",
+  "chart": "",
+  "lines": "19-19"
+ },
+ {
+  "id": "n029",
+  "start": 141.42,
+  "dur": 7.78,
+  "kind": "scene",
+  "img": "n029.jpg",
+  "chart": "",
+  "lines": "20-20"
+ },
+ {
+  "id": "n030",
+  "start": 149.2,
+  "dur": 4.99,
+  "kind": "scene",
+  "img": "n030.jpg",
+  "chart": "",
+  "lines": "21-21"
+ },
+ {
+  "id": "n031",
+  "start": 154.19,
+  "dur": 5.44,
+  "kind": "scene",
+  "img": "n031.jpg",
+  "chart": "",
+  "lines": "21-21"
+ },
+ {
+  "id": "n032",
+  "start": 159.62,
+  "dur": 3.59,
+  "kind": "scene",
+  "img": "n032.jpg",
+  "chart": "",
+  "lines": "22-22"
+ },
+ {
+  "id": "n033",
+  "start": 163.21,
+  "dur": 4.88,
+  "kind": "scene",
+  "img": "n033.jpg",
+  "chart": "",
+  "lines": "23-23"
+ },
+ {
+  "id": "n034",
+  "start": 168.09,
+  "dur": 5.16,
+  "kind": "scene",
+  "img": "n034.jpg",
+  "chart": "",
+  "lines": "23-23"
+ },
+ {
+  "id": "n035",
+  "start": 173.25,
+  "dur": 9.0,
+  "kind": "scene",
+  "img": "n035.jpg",
+  "chart": "",
+  "lines": "24-24"
+ },
+ {
+  "id": "n036",
+  "start": 182.25,
+  "dur": 4.17,
+  "kind": "scene",
+  "img": "n036.jpg",
+  "chart": "",
+  "lines": "25-25"
+ },
+ {
+  "id": "n037",
+  "start": 186.42,
+  "dur": 4.73,
+  "kind": "scene",
+  "img": "n037.jpg",
+  "chart": "",
+  "lines": "26-26"
+ },
+ {
+  "id": "n038",
+  "start": 191.15,
+  "dur": 3.49,
+  "kind": "scene",
+  "img": "n038.jpg",
+  "chart": "",
+  "lines": "27-27"
+ },
+ {
+  "id": "n039",
+  "start": 194.64,
+  "dur": 3.92,
+  "kind": "scene",
+  "img": "n039.jpg",
+  "chart": "",
+  "lines": "27-27"
+ },
+ {
+  "id": "n040",
+  "start": 198.56,
+  "dur": 8.48,
+  "kind": "chart",
+  "img": "",
+  "chart": "до 1994: 3 rem за квартал, пожизненно не больше 5 × (возраст − 18)",
+  "lines": "28-28"
+ },
+ {
+  "id": "n041",
+  "start": 207.04,
+  "dur": 4.36,
+  "kind": "chart",
+  "img": "",
+  "chart": "с 1994: 5 rem в год",
+  "lines": "29-29"
+ },
+ {
+  "id": "n042",
+  "start": 211.4,
+  "dur": 7.2,
+  "kind": "chart",
+  "img": "",
+  "chart": "5 rem = 50 mSv  vs  средний американец ≈ 6 mSv в год",
+  "lines": "30-30"
+ },
+ {
+  "id": "n043",
+  "start": 218.6,
+  "dur": 3.6,
+  "kind": "scene",
+  "img": "n043.jpg",
+  "chart": "",
+  "lines": "31-31"
+ },
+ {
+  "id": "n044",
+  "start": 222.2,
+  "dur": 8.74,
+  "kind": "chart",
+  "img": "",
+  "chart": "1 год на лимите ≈ 8 лет обычной жизни ≈ 2 500 рентгенов",
+  "lines": "32-32"
+ },
+ {
+  "id": "n045",
+  "start": 230.94,
+  "dur": 2.6,
+  "kind": "scene",
+  "img": "n045.jpg",
+  "chart": "",
+  "lines": "33-33"
+ },
+ {
+  "id": "n046",
+  "start": 233.54,
+  "dur": 8.22,
+  "kind": "scene",
+  "img": "n046.jpg",
+  "chart": "",
+  "lines": "34-34"
+ },
+ {
+  "id": "n047",
+  "start": 241.76,
+  "dur": 3.73,
+  "kind": "scene",
+  "img": "n047.jpg",
+  "chart": "",
+  "lines": "35-35"
+ },
+ {
+  "id": "n048",
+  "start": 245.49,
+  "dur": 3.85,
+  "kind": "scene",
+  "img": "n048.jpg",
+  "chart": "",
+  "lines": "36-36"
+ },
+ {
+  "id": "n049",
+  "start": 249.34,
+  "dur": 4.31,
+  "kind": "bake",
+  "img": "n049.jpg",
+  "chart": "",
+  "lines": "36-36"
+ },
+ {
+  "id": "n050",
+  "start": 253.66,
+  "dur": 4.1,
+  "kind": "scene",
+  "img": "n050.jpg",
+  "chart": "",
+  "lines": "37-37"
+ },
+ {
+  "id": "n051",
+  "start": 257.76,
+  "dur": 6.03,
+  "kind": "scene",
+  "img": "n051.jpg",
+  "chart": "",
+  "lines": "38-38"
+ },
+ {
+  "id": "n052",
+  "start": 263.79,
+  "dur": 3.88,
+  "kind": "scene",
+  "img": "n052.jpg",
+  "chart": "",
+  "lines": "39-39"
+ },
+ {
+  "id": "n053",
+  "start": 267.67,
+  "dur": 4.26,
+  "kind": "scene",
+  "img": "n053.jpg",
+  "chart": "",
+  "lines": "39-39"
+ },
+ {
+  "id": "n054",
+  "start": 271.93,
+  "dur": 6.41,
+  "kind": "scene",
+  "img": "n054.jpg",
+  "chart": "",
+  "lines": "40-40"
+ },
+ {
+  "id": "n055",
+  "start": 278.34,
+  "dur": 7.15,
+  "kind": "scene",
+  "img": "n055.jpg",
+  "chart": "",
+  "lines": "41-41"
+ },
+ {
+  "id": "n056",
+  "start": 285.49,
+  "dur": 6.54,
+  "kind": "scene",
+  "img": "n056.jpg",
+  "chart": "",
+  "lines": "42-42"
+ },
+ {
+  "id": "n057",
+  "start": 292.03,
+  "dur": 6.72,
+  "kind": "chart",
+  "img": "",
+  "chart": "1978 → 1980: выработка ↓, облучаемых 44 000 → 77 000",
+  "lines": "42-42"
+ },
+ {
+  "id": "n058",
+  "start": 298.75,
+  "dur": 7.57,
+  "kind": "scene",
+  "img": "n058.jpg",
+  "chart": "",
+  "lines": "43-44"
+ },
+ {
+  "id": "n059",
+  "start": 306.32,
+  "dur": 7.22,
+  "kind": "scene",
+  "img": "n059.jpg",
+  "chart": "",
+  "lines": "45-45"
+ },
+ {
+  "id": "n060",
+  "start": 313.54,
+  "dur": 2.69,
+  "kind": "scene",
+  "img": "n060.jpg",
+  "chart": "",
+  "lines": "46-46"
+ },
+ {
+  "id": "n061",
+  "start": 316.23,
+  "dur": 6.15,
+  "kind": "scene",
+  "img": "n061.jpg",
+  "chart": "",
+  "lines": "47-47"
+ },
+ {
+  "id": "n062",
+  "start": 322.38,
+  "dur": 6.6,
+  "kind": "scene",
+  "img": "n062.jpg",
+  "chart": "",
+  "lines": "47-47"
+ },
+ {
+  "id": "n063",
+  "start": 328.98,
+  "dur": 6.39,
+  "kind": "scene",
+  "img": "n063.jpg",
+  "chart": "",
+  "lines": "48-48"
+ },
+ {
+  "id": "n064",
+  "start": 335.37,
+  "dur": 3.24,
+  "kind": "scene",
+  "img": "n064.jpg",
+  "chart": "",
+  "lines": "49-49"
+ },
+ {
+  "id": "n065",
+  "start": 338.61,
+  "dur": 5.83,
+  "kind": "scene",
+  "img": "n065.jpg",
+  "chart": "",
+  "lines": "50-50"
+ },
+ {
+  "id": "n066",
+  "start": 344.44,
+  "dur": 6.51,
+  "kind": "scene",
+  "img": "n066.jpg",
+  "chart": "",
+  "lines": "50-50"
+ },
+ {
+  "id": "n067",
+  "start": 350.96,
+  "dur": 5.37,
+  "kind": "scene",
+  "img": "n067.jpg",
+  "chart": "",
+  "lines": "51-51"
+ },
+ {
+  "id": "n068",
+  "start": 356.32,
+  "dur": 6.01,
+  "kind": "scene",
+  "img": "n068.jpg",
+  "chart": "",
+  "lines": "51-51"
+ },
+ {
+  "id": "n069",
+  "start": 362.34,
+  "dur": 6.95,
+  "kind": "scene",
+  "img": "n069.jpg",
+  "chart": "",
+  "lines": "52-52"
+ },
+ {
+  "id": "n070",
+  "start": 369.29,
+  "dur": 5.26,
+  "kind": "scene",
+  "img": "n070.jpg",
+  "chart": "",
+  "lines": "53-53"
+ },
+ {
+  "id": "n071",
+  "start": 374.55,
+  "dur": 6.16,
+  "kind": "scene",
+  "img": "n071.jpg",
+  "chart": "",
+  "lines": "53-53"
+ },
+ {
+  "id": "n072",
+  "start": 380.71,
+  "dur": 4.81,
+  "kind": "scene",
+  "img": "n072.jpg",
+  "chart": "",
+  "lines": "54-54"
+ },
+ {
+  "id": "n073",
+  "start": 385.52,
+  "dur": 5.52,
+  "kind": "scene",
+  "img": "n073.jpg",
+  "chart": "",
+  "lines": "54-54"
+ },
+ {
+  "id": "n074",
+  "start": 391.04,
+  "dur": 5.07,
+  "kind": "scene",
+  "img": "n074.jpg",
+  "chart": "",
+  "lines": "55-55"
+ },
+ {
+  "id": "n075",
+  "start": 396.11,
+  "dur": 4.88,
+  "kind": "scene",
+  "img": "n075.jpg",
+  "chart": "",
+  "lines": "56-56"
+ },
+ {
+  "id": "n076",
+  "start": 400.99,
+  "dur": 5.16,
+  "kind": "scene",
+  "img": "n076.jpg",
+  "chart": "",
+  "lines": "56-56"
+ },
+ {
+  "id": "n077",
+  "start": 406.15,
+  "dur": 3.44,
+  "kind": "scene",
+  "img": "n077.jpg",
+  "chart": "",
+  "lines": "57-57"
+ },
+ {
+  "id": "n078",
+  "start": 409.59,
+  "dur": 6.8,
+  "kind": "scene",
+  "img": "n078.jpg",
+  "chart": "",
+  "lines": "58-58"
+ },
+ {
+  "id": "n079",
+  "start": 416.39,
+  "dur": 4.55,
+  "kind": "scene",
+  "img": "n079.jpg",
+  "chart": "",
+  "lines": "59-59"
+ },
+ {
+  "id": "n080",
+  "start": 420.94,
+  "dur": 4.87,
+  "kind": "scene",
+  "img": "n080.jpg",
+  "chart": "",
+  "lines": "60-60"
+ },
+ {
+  "id": "n081",
+  "start": 425.81,
+  "dur": 5.15,
+  "kind": "bake",
+  "img": "n081.jpg",
+  "chart": "",
+  "lines": "60-60"
+ },
+ {
+  "id": "n082",
+  "start": 430.96,
+  "dur": 5.05,
+  "kind": "bake",
+  "img": "n082.jpg",
+  "chart": "",
+  "lines": "61-61"
+ },
+ {
+  "id": "n083",
+  "start": 436.01,
+  "dur": 4.31,
+  "kind": "scene",
+  "img": "n083.jpg",
+  "chart": "",
+  "lines": "62-62"
+ },
+ {
+  "id": "n084",
+  "start": 440.32,
+  "dur": 4.62,
+  "kind": "scene",
+  "img": "n084.jpg",
+  "chart": "",
+  "lines": "62-62"
+ },
+ {
+  "id": "n085",
+  "start": 444.94,
+  "dur": 7.21,
+  "kind": "bake",
+  "img": "n085.jpg",
+  "chart": "",
+  "lines": "63-63"
+ },
+ {
+  "id": "n086",
+  "start": 452.15,
+  "dur": 4.12,
+  "kind": "scene",
+  "img": "n086.jpg",
+  "chart": "",
+  "lines": "64-64"
+ },
+ {
+  "id": "n087",
+  "start": 456.27,
+  "dur": 5.37,
+  "kind": "scene",
+  "img": "n087.jpg",
+  "chart": "",
+  "lines": "65-65"
+ },
+ {
+  "id": "n088",
+  "start": 461.63,
+  "dur": 5.64,
+  "kind": "bake",
+  "img": "n088.jpg",
+  "chart": "",
+  "lines": "65-65"
+ },
+ {
+  "id": "n089",
+  "start": 467.28,
+  "dur": 4.44,
+  "kind": "scene",
+  "img": "n089.jpg",
+  "chart": "",
+  "lines": "66-66"
+ },
+ {
+  "id": "n090",
+  "start": 471.72,
+  "dur": 4.44,
+  "kind": "scene",
+  "img": "n090.jpg",
+  "chart": "",
+  "lines": "66-66"
+ },
+ {
+  "id": "n091",
+  "start": 476.17,
+  "dur": 4.75,
+  "kind": "scene",
+  "img": "n091.jpg",
+  "chart": "",
+  "lines": "66-66"
+ },
+ {
+  "id": "n092",
+  "start": 480.92,
+  "dur": 6.55,
+  "kind": "scene",
+  "img": "n092.jpg",
+  "chart": "",
+  "lines": "67-67"
+ },
+ {
+  "id": "n093",
+  "start": 487.47,
+  "dur": 5.95,
+  "kind": "scene",
+  "img": "n093.jpg",
+  "chart": "",
+  "lines": "68-68"
+ },
+ {
+  "id": "n094",
+  "start": 493.42,
+  "dur": 6.25,
+  "kind": "scene",
+  "img": "n094.jpg",
+  "chart": "",
+  "lines": "68-68"
+ },
+ {
+  "id": "n095",
+  "start": 499.67,
+  "dur": 4.6,
+  "kind": "scene",
+  "img": "n095.jpg",
+  "chart": "",
+  "lines": "69-69"
+ },
+ {
+  "id": "n096",
+  "start": 504.27,
+  "dur": 4.9,
+  "kind": "scene",
+  "img": "n096.jpg",
+  "chart": "",
+  "lines": "69-69"
+ },
+ {
+  "id": "n097",
+  "start": 509.17,
+  "dur": 3.99,
+  "kind": "scene",
+  "img": "n097.jpg",
+  "chart": "",
+  "lines": "70-70"
+ },
+ {
+  "id": "n098",
+  "start": 513.16,
+  "dur": 2.56,
+  "kind": "scene",
+  "img": "n098.jpg",
+  "chart": "",
+  "lines": "71-72"
+ },
+ {
+  "id": "n099",
+  "start": 515.72,
+  "dur": 7.07,
+  "kind": "scene",
+  "img": "n099.jpg",
+  "chart": "",
+  "lines": "72-72"
+ },
+ {
+  "id": "n100",
+  "start": 522.79,
+  "dur": 4.13,
+  "kind": "scene",
+  "img": "n100.jpg",
+  "chart": "",
+  "lines": "73-73"
+ },
+ {
+  "id": "n101",
+  "start": 526.92,
+  "dur": 6.38,
+  "kind": "scene",
+  "img": "n101.jpg",
+  "chart": "",
+  "lines": "74-74"
+ },
+ {
+  "id": "n102",
+  "start": 533.3,
+  "dur": 7.38,
+  "kind": "scene",
+  "img": "n102.jpg",
+  "chart": "",
+  "lines": "75-75"
+ },
+ {
+  "id": "n103",
+  "start": 540.67,
+  "dur": 7.83,
+  "kind": "scene",
+  "img": "n103.jpg",
+  "chart": "",
+  "lines": "75-75"
+ },
+ {
+  "id": "n104",
+  "start": 548.5,
+  "dur": 4.74,
+  "kind": "scene",
+  "img": "n104.jpg",
+  "chart": "",
+  "lines": "76-76"
+ },
+ {
+  "id": "n105",
+  "start": 553.24,
+  "dur": 5.08,
+  "kind": "chart",
+  "img": "",
+  "chart": "INWORKS: риск растёт вместе с дозой, даже ниже лимитов",
+  "lines": "76-76"
+ },
+ {
+  "id": "n106",
+  "start": 558.32,
+  "dur": 7.9,
+  "kind": "chart",
+  "img": "",
+  "chart": "1 год на лимите ≈ +2–3 % к риску смерти от рака",
+  "lines": "77-77"
+ },
+ {
+  "id": "n107",
+  "start": 566.22,
+  "dur": 2.59,
+  "kind": "scene",
+  "img": "n107.jpg",
+  "chart": "",
+  "lines": "78-78"
+ },
+ {
+  "id": "n108",
+  "start": 568.81,
+  "dur": 4.73,
+  "kind": "scene",
+  "img": "n108.jpg",
+  "chart": "",
+  "lines": "79-79"
+ },
+ {
+  "id": "n109",
+  "start": 573.54,
+  "dur": 5.43,
+  "kind": "scene",
+  "img": "n109.jpg",
+  "chart": "",
+  "lines": "79-79"
+ },
+ {
+  "id": "n110",
+  "start": 578.97,
+  "dur": 2.35,
+  "kind": "scene",
+  "img": "n110.jpg",
+  "chart": "",
+  "lines": "80-80"
+ },
+ {
+  "id": "n111",
+  "start": 581.32,
+  "dur": 7.6,
+  "kind": "scene",
+  "img": "n111.jpg",
+  "chart": "",
+  "lines": "81-81"
+ },
+ {
+  "id": "n112",
+  "start": 588.92,
+  "dur": 5.1,
+  "kind": "scene",
+  "img": "n112.jpg",
+  "chart": "",
+  "lines": "82-82"
+ },
+ {
+  "id": "n113",
+  "start": 594.01,
+  "dur": 5.41,
+  "kind": "scene",
+  "img": "n113.jpg",
+  "chart": "",
+  "lines": "82-82"
+ },
+ {
+  "id": "n114",
+  "start": 599.43,
+  "dur": 4.68,
+  "kind": "scene",
+  "img": "n114.jpg",
+  "chart": "",
+  "lines": "83-83"
+ },
+ {
+  "id": "n115",
+  "start": 604.11,
+  "dur": 5.1,
+  "kind": "bake",
+  "img": "n115.jpg",
+  "chart": "",
+  "lines": "83-83"
+ },
+ {
+  "id": "n116",
+  "start": 609.2,
+  "dur": 5.26,
+  "kind": "scene",
+  "img": "n116.jpg",
+  "chart": "",
+  "lines": "84-84"
+ },
+ {
+  "id": "n117",
+  "start": 614.46,
+  "dur": 4.49,
+  "kind": "scene",
+  "img": "n117.jpg",
+  "chart": "",
+  "lines": "85-85"
+ },
+ {
+  "id": "n118",
+  "start": 618.95,
+  "dur": 4.7,
+  "kind": "scene",
+  "img": "n118.jpg",
+  "chart": "",
+  "lines": "85-85"
+ },
+ {
+  "id": "n119",
+  "start": 623.65,
+  "dur": 6.11,
+  "kind": "bake",
+  "img": "n119.jpg",
+  "chart": "",
+  "lines": "86-86"
+ },
+ {
+  "id": "n120",
+  "start": 629.76,
+  "dur": 6.46,
+  "kind": "scene",
+  "img": "n120.jpg",
+  "chart": "",
+  "lines": "86-86"
+ },
+ {
+  "id": "n121",
+  "start": 636.22,
+  "dur": 4.34,
+  "kind": "scene",
+  "img": "n121.jpg",
+  "chart": "",
+  "lines": "87-87"
+ },
+ {
+  "id": "n122",
+  "start": 640.56,
+  "dur": 6.42,
+  "kind": "scene",
+  "img": "n122.jpg",
+  "chart": "",
+  "lines": "88-88"
+ },
+ {
+  "id": "n123",
+  "start": 646.98,
+  "dur": 7.17,
+  "kind": "chart",
+  "img": "",
+  "chart": "2023: 93 489 под контролем, средняя доза ≈ 0,16 rem",
+  "lines": "88-88"
+ },
+ {
+  "id": "n124",
+  "start": 654.15,
+  "dur": 5.6,
+  "kind": "scene",
+  "img": "n124.jpg",
+  "chart": "",
+  "lines": "89-89"
+ },
+ {
+  "id": "n125",
+  "start": 659.75,
+  "dur": 4.42,
+  "kind": "scene",
+  "img": "n125.jpg",
+  "chart": "",
+  "lines": "90-90"
+ },
+ {
+  "id": "n126",
+  "start": 664.17,
+  "dur": 5.39,
+  "kind": "scene",
+  "img": "n126.jpg",
+  "chart": "",
+  "lines": "90-90"
+ },
+ {
+  "id": "n127",
+  "start": 669.56,
+  "dur": 2.57,
+  "kind": "scene",
+  "img": "n127.jpg",
+  "chart": "",
+  "lines": "91-91"
+ },
+ {
+  "id": "n128",
+  "start": 672.13,
+  "dur": 4.97,
+  "kind": "scene",
+  "img": "n128.jpg",
+  "chart": "",
+  "lines": "92-92"
+ },
+ {
+  "id": "n129",
+  "start": 677.1,
+  "dur": 5.74,
+  "kind": "scene",
+  "img": "n129.jpg",
+  "chart": "",
+  "lines": "92-92"
+ },
+ {
+  "id": "n130",
+  "start": 682.83,
+  "dur": 4.79,
+  "kind": "scene",
+  "img": "n130.jpg",
+  "chart": "",
+  "lines": "93-93"
+ },
+ {
+  "id": "n131",
+  "start": 687.62,
+  "dur": 8.89,
+  "kind": "scene",
+  "img": "n131.jpg",
+  "chart": "",
+  "lines": "94-95"
+ },
+ {
+  "id": "n132",
+  "start": 696.51,
+  "dur": 3.84,
+  "kind": "scene",
+  "img": "n132.jpg",
+  "chart": "",
+  "lines": "96-96"
+ }
+]

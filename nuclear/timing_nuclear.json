@@ -1,0 +1,578 @@
+[
+ {
+  "n": 1,
+  "start": 0.0,
+  "end": 0.77,
+  "text": "Here's the deal."
+ },
+ {
+  "n": 2,
+  "start": 1.18,
+  "end": 9.58,
+  "text": "You're standing on a steel platform inside a concrete building, and a few feet above your head there's a round hole about sixteen inches across."
+ },
+ {
+  "n": 3,
+  "start": 10.04,
+  "end": 20.45,
+  "text": "You're wearing a yellow plastic suit that covers you from the soles of your feet to the top of your head, fresh air hisses in through a hose, and the man next to you is holding a stopwatch."
+ },
+ {
+  "n": 4,
+  "start": 21.01,
+  "end": 26.38,
+  "text": "On the other side of that hole is the bottom of a steam generator inside a nuclear power plant."
+ },
+ {
+  "n": 5,
+  "start": 26.92,
+  "end": 31.69,
+  "text": "In there, the radiation runs somewhere between five and twenty-five rem an hour."
+ },
+ {
+  "n": 6,
+  "start": 32.13,
+  "end": 37.11,
+  "text": "The legal limit for a nuclear worker in the United States is five rem for the whole year."
+ },
+ {
+  "n": 7,
+  "start": 37.66,
+  "end": 42.49,
+  "text": "Take the worst end of that range, do the division, and you get twelve minutes."
+ },
+ {
+  "n": 8,
+  "start": 43.04,
+  "end": 48.69,
+  "text": "Twelve minutes in there uses up everything the law lets your body take for the next twelve months."
+ },
+ {
+  "n": 9,
+  "start": 49.2,
+  "end": 58.82,
+  "text": "You're going in headfirst, you're going to bolt a heavy plug into a pipe wide enough to crawl through, and you're coming back out when the man with the stopwatch says so."
+ },
+ {
+  "n": 10,
+  "start": 59.14,
+  "end": 62.13,
+  "text": "The industry calls people who do this jumpers."
+ },
+ {
+  "n": 11,
+  "start": 62.45,
+  "end": 67.01,
+  "text": "Back in the seventies, a lot of them had another nickname, the glow boys."
+ },
+ {
+  "n": 12,
+  "start": 67.38,
+  "end": 71.24,
+  "text": "Keep an eye on the corner of the screen, because that number is your dose."
+ },
+ {
+  "n": 13,
+  "start": 71.58,
+  "end": 80.78,
+  "text": "Right now it's zero, and the bar next to it shows what an average American picks up in a whole year from rocks, air, food and medical scans."
+ },
+ {
+  "n": 14,
+  "start": 81.13,
+  "end": 95.12,
+  "text": "By the end of this video you'll know who these men were, why the plants hired them for minutes instead of years, what it did to their bodies, and why the reactors coming back online right now still need people who'll climb through that hole."
+ },
+ {
+  "n": 15,
+  "start": 95.46,
+  "end": 102.6,
+  "text": "A nuclear plant like the ones built across America in the 1970s makes electricity with two separate loops of water."
+ },
+ {
+  "n": 16,
+  "start": 102.93,
+  "end": 110.39,
+  "text": "The first loop runs straight through the reactor core, picks up heat, and carries along anything radioactive the water can drag with it."
+ },
+ {
+  "n": 17,
+  "start": 110.75,
+  "end": 123.57,
+  "text": "That water flows into the steam generator, a steel tank several stories tall packed with thousands of thin tubes, and it heats a second loop of clean water that turns to steam and spins the turbine."
+ },
+ {
+  "n": 18,
+  "start": 124.02,
+  "end": 131.71,
+  "text": "The reactor water enters at the bottom, into a curved chamber the industry calls the channel head, and the workers call the bowl."
+ },
+ {
+  "n": 19,
+  "start": 132.18,
+  "end": 141.01,
+  "text": "Over months of running, tiny bits of metal worn off the pipes ride through the core, turn radioactive, and settle on the walls of that bowl."
+ },
+ {
+  "n": 20,
+  "start": 141.42,
+  "end": 148.73,
+  "text": "The worst of them is cobalt-60, which keeps throwing off gamma rays for years after the reactor is switched off."
+ },
+ {
+  "n": 21,
+  "start": 149.2,
+  "end": 159.17,
+  "text": "So every time the plant shuts down for refueling, usually every eighteen months to two years, that bowl is one of the hottest places a person is legally allowed to go."
+ },
+ {
+  "n": 22,
+  "start": 159.62,
+  "end": 162.76,
+  "text": "And during that shutdown, somebody has to go there."
+ },
+ {
+  "n": 23,
+  "start": 163.21,
+  "end": 172.98,
+  "text": "The crew wants to flood the pool above the reactor so it can move fuel underwater, and at the same time it wants to open up the steam generator to inspect its tubes."
+ },
+ {
+  "n": 24,
+  "start": 173.25,
+  "end": 181.7,
+  "text": "To do both at once, the big pipes between the reactor and the steam generator have to be sealed from the inside with plugs called nozzle dams."
+ },
+ {
+  "n": 25,
+  "start": 182.25,
+  "end": 185.9,
+  "text": "Today, robots and remote tools handle a lot of that job."
+ },
+ {
+  "n": 26,
+  "start": 186.42,
+  "end": 190.42,
+  "text": "For decades, a man in a plastic suit did it with his own hands."
+ },
+ {
+  "n": 27,
+  "start": 191.15,
+  "end": 198.13,
+  "text": "Every worker at a nuclear plant wears a dosimeter, and every bit of radiation it records goes into a file with their name on it."
+ },
+ {
+  "n": 28,
+  "start": 198.56,
+  "end": 206.55,
+  "text": "Before 1994, federal rules allowed three rem in any three-month stretch, with a lifetime cap tied to your age."
+ },
+ {
+  "n": 29,
+  "start": 207.04,
+  "end": 210.91,
+  "text": "Since 1994, the cap has been five rem in a year."
+ },
+ {
+  "n": 30,
+  "start": 211.4,
+  "end": 218.03,
+  "text": "Five rem is fifty millisieverts, and the average American gets about six millisieverts a year from everything combined."
+ },
+ {
+  "n": 31,
+  "start": 218.6,
+  "end": 221.69,
+  "text": "A chest X-ray is about two hundredths of a millisievert."
+ },
+ {
+  "n": 32,
+  "start": 222.2,
+  "end": 230.27,
+  "text": "So one year at the legal limit adds up to roughly eight years of ordinary life, or around two and a half thousand chest X-rays."
+ },
+ {
+  "n": 33,
+  "start": 230.94,
+  "end": 233.25,
+  "text": "Now look at it from the plant's side of the desk."
+ },
+ {
+  "n": 34,
+  "start": 233.54,
+  "end": 241.34,
+  "text": "A trained technician who burns through his whole year in the bowl can't do his regular job for months, because his regular job involves radiation too."
+ },
+ {
+  "n": 35,
+  "start": 241.76,
+  "end": 245.29,
+  "text": "The plant would be losing a skilled man to save a few minutes of work."
+ },
+ {
+  "n": 36,
+  "start": 245.49,
+  "end": 253.2,
+  "text": "It's much cheaper to bring in someone whose file still says zero, let him spend the entire year's allowance in one afternoon, and send him home."
+ },
+ {
+  "n": 37,
+  "start": 253.66,
+  "end": 257.06,
+  "text": "What the plant is really buying is the empty space in that file."
+ },
+ {
+  "n": 38,
+  "start": 257.76,
+  "end": 263.51,
+  "text": "By the late 1970s, American nuclear plants were bringing in temporary workers by the thousands."
+ },
+ {
+  "n": 39,
+  "start": 263.79,
+  "end": 271.55,
+  "text": "They mopped up spills, scrubbed contaminated floors, hunted for leaks, welded pipe and hauled radioactive waste in drums."
+ },
+ {
+  "n": 40,
+  "start": 271.93,
+  "end": 277.61,
+  "text": "The regular staff had names for them: glow boys, gamma sponges, nuclear nomads."
+ },
+ {
+  "n": 41,
+  "start": 278.34,
+  "end": 285.3,
+  "text": "In the early eighties, a freelance journalist named Paul Bagne went through the federal numbers and found something that didn't add up."
+ },
+ {
+  "n": 42,
+  "start": 285.49,
+  "end": 298.57,
+  "text": "Between 1978 and 1980, the electricity coming out of American nuclear plants actually went down, while the number of workers exposed to radiation went from forty-four thousand to seventy-seven thousand."
+ },
+ {
+  "n": 43,
+  "start": 298.75,
+  "end": 300.56,
+  "text": "Nearly half of them were temporary."
+ },
+ {
+  "n": 44,
+  "start": 300.91,
+  "end": 305.98,
+  "text": "The plants were making less power and spreading the radiation across far more bodies to do it."
+ },
+ {
+  "n": 45,
+  "start": 306.32,
+  "end": 313.11,
+  "text": "Critics at the time claimed that some of these men moved from plant to plant, and when they hit the limit at one, they signed on at the next."
+ },
+ {
+  "n": 46,
+  "start": 313.54,
+  "end": 315.79,
+  "text": "So why would anyone volunteer for this?"
+ },
+ {
+  "n": 47,
+  "start": 316.23,
+  "end": 328.54,
+  "text": "One account in a California paper put it in plain words: \"They do it because it pays well. Maybe they make a jump and then have some extra money for a vacation that year, or maybe it helps them through rough times in between jobs.\""
+ },
+ {
+  "n": 48,
+  "start": 328.98,
+  "end": 334.96,
+  "text": "For some men that meant a trip somewhere warm, and for others it meant rent in the gap between two jobs."
+ },
+ {
+  "n": 49,
+  "start": 335.37,
+  "end": 338.31,
+  "text": "Some jumpers were regular employees who chose to do it."
+ },
+ {
+  "n": 50,
+  "start": 338.61,
+  "end": 350.28,
+  "text": "At the Diablo Canyon plant on the California coast, a mechanical engineer named David Beals volunteered to jump five times in four years, and ended up teaching other people how to do it."
+ },
+ {
+  "n": 51,
+  "start": 350.96,
+  "end": 361.69,
+  "text": "They practiced on a full-size model of the bowl: climb the ladder, stand on the platform under the sixteen-inch hole, raise both arms, and push yourself through headfirst in the suit."
+ },
+ {
+  "n": 52,
+  "start": 362.34,
+  "end": 368.4,
+  "text": "Every movement gets rehearsed on the model, because inside the real one, a dropped bolt costs you dose."
+ },
+ {
+  "n": 53,
+  "start": 369.29,
+  "end": 379.81,
+  "text": "Westinghouse started sending a robot arm called ROSA into steam generators in the early 1980s, and each new generation of remote tools took more of this work away from people."
+ },
+ {
+  "n": 54,
+  "start": 380.71,
+  "end": 390.33,
+  "text": "Robots jam, though, bolts seize, and some jobs still needed a person in the bowl, which is why Diablo Canyon was still training jumpers in the 2000s."
+ },
+ {
+  "n": 55,
+  "start": 391.04,
+  "end": 395.83,
+  "text": "If you want to see where this logic ends up when fewer people are watching, look at Japan."
+ },
+ {
+  "n": 56,
+  "start": 396.11,
+  "end": 405.87,
+  "text": "In 1979, a Japanese writer named Kunio Horie published a book about the contract laborers who did the dirtiest work at the country's nuclear plants."
+ },
+ {
+  "n": 57,
+  "start": 406.15,
+  "end": 409.32,
+  "text": "He called them nuclear gypsies, and the name stuck."
+ },
+ {
+  "n": 58,
+  "start": 409.59,
+  "end": 416.1,
+  "text": "Many of them came from day-labor corners, where unemployed men waited every morning for someone to offer them a shift."
+ },
+ {
+  "n": 59,
+  "start": 416.39,
+  "end": 420.68,
+  "text": "Then came March 2011 and the meltdowns at Fukushima Daiichi."
+ },
+ {
+  "n": 60,
+  "start": 420.94,
+  "end": 430.67,
+  "text": "In the weeks after the disaster, reports said workers were being offered two hundred thousand yen a day, about twenty-five hundred dollars, to go into the damaged reactors."
+ },
+ {
+  "n": 61,
+  "start": 430.96,
+  "end": 435.71,
+  "text": "A twenty-seven-year-old named Ryuta Fujita said he was offered twice that."
+ },
+ {
+  "n": 62,
+  "start": 436.01,
+  "end": 444.64,
+  "text": "Reuters later interviewed more than three dozen workers at the site, and only one of them said he'd received the full hazard pay increase he was promised."
+ },
+ {
+  "n": 63,
+  "start": 444.94,
+  "end": 451.84,
+  "text": "On the payslips Reuters saw, the hazard allowance came to somewhere between thirty-six and ninety dollars a day."
+ },
+ {
+  "n": 64,
+  "start": 452.15,
+  "end": 456.05,
+  "text": "Two years later, Reuters followed the money into the cleanup around the plant."
+ },
+ {
+  "n": 65,
+  "start": 456.27,
+  "end": 467.0,
+  "text": "A recruiter named Seiji Sasa told reporters he went to the train station in Sendai before dawn to look for homeless men, and he got a hundred dollars for each one he delivered."
+ },
+ {
+  "n": 66,
+  "start": 467.28,
+  "end": 480.61,
+  "text": "Those men cleared radioactive soil for contractors three layers below one of Japan's biggest construction companies, and after charges for food and a bed, some of them ended up earning less than the minimum wage."
+ },
+ {
+  "n": 67,
+  "start": 480.92,
+  "end": 487.16,
+  "text": "Twenty-five years before Fukushima, the Soviet Union ran its own version on the roof at Chernobyl."
+ },
+ {
+  "n": 68,
+  "start": 487.47,
+  "end": 499.37,
+  "text": "When the radiation fried the electronics in the robots sent to clear the debris, soldiers went up with shovels for about ninety seconds each, and they had a name for themselves too: bio-robots."
+ },
+ {
+  "n": 69,
+  "start": 499.67,
+  "end": 508.88,
+  "text": "Across three countries and forty years, the rule stayed the same: when the machine can't take the dose, a person with a clean file takes it instead."
+ },
+ {
+  "n": 70,
+  "start": 509.17,
+  "end": 512.87,
+  "text": "So what does a full year's dose do to the person who takes it?"
+ },
+ {
+  "n": 71,
+  "start": 513.16,
+  "end": 515.51,
+  "text": "Nobody collapses from five rem."
+ },
+ {
+  "n": 72,
+  "start": 515.72,
+  "end": 522.39,
+  "text": "There's no radiation sickness, your hair stays on your head, and you climb out of the bowl feeling the same as when you went in."
+ },
+ {
+  "n": 73,
+  "start": 522.79,
+  "end": 526.31,
+  "text": "Whatever damage there is shows up as odds, years later."
+ },
+ {
+  "n": 74,
+  "start": 526.92,
+  "end": 532.89,
+  "text": "In 2023, the British Medical Journal published the largest study of its kind, called INWORKS."
+ },
+ {
+  "n": 75,
+  "start": 533.3,
+  "end": 548.05,
+  "text": "Researchers followed 309,932 nuclear workers in France, the United Kingdom and the United States, some of them for decades, and counted 28,089 deaths from solid cancers."
+ },
+ {
+  "n": 76,
+  "start": 548.5,
+  "end": 557.98,
+  "text": "The risk of dying from cancer climbed along with the dose, and it kept climbing even among workers whose lifetime total stayed under every limit you've heard about in this video."
+ },
+ {
+  "n": 77,
+  "start": 558.32,
+  "end": 565.79,
+  "text": "Their numbers work out to roughly a two to three percent higher relative risk of cancer death for one full year at the American limit."
+ },
+ {
+  "n": 78,
+  "start": 566.22,
+  "end": 568.42,
+  "text": "For a single jump, that's a small number."
+ },
+ {
+  "n": 79,
+  "start": 568.81,
+  "end": 578.27,
+  "text": "The trouble is that the whole system was built on men coming back, outage after outage and plant after plant, with each dose landing on the same file."
+ },
+ {
+  "n": 80,
+  "start": 578.97,
+  "end": 581.05,
+  "text": "This story didn't stay in the seventies."
+ },
+ {
+  "n": 81,
+  "start": 581.32,
+  "end": 588.59,
+  "text": "In 2019, the Unit 1 reactor at Three Mile Island in Pennsylvania shut down because it couldn't turn a profit."
+ },
+ {
+  "n": 82,
+  "start": 588.92,
+  "end": 599.11,
+  "text": "In 2024, its owner, Constellation, signed a twenty-year deal to sell that reactor's power to Microsoft for data centers running artificial intelligence."
+ },
+ {
+  "n": 83,
+  "start": 599.43,
+  "end": 608.78,
+  "text": "The plant has a new name, the Crane Clean Energy Center, a billion-dollar federal loan, and a target of coming back online around 2027."
+ },
+ {
+  "n": 84,
+  "start": 609.2,
+  "end": 614.27,
+  "text": "In Michigan, the Palisades plant got its operating license back in 2025."
+ },
+ {
+  "n": 85,
+  "start": 614.46,
+  "end": 623.44,
+  "text": "Every restarted reactor brings back refueling outages, and every outage brings in crews of contract workers who travel from plant to plant."
+ },
+ {
+  "n": 86,
+  "start": 623.65,
+  "end": 635.87,
+  "text": "Job boards right now list outage work at roughly twenty-three to seventy-three dollars an hour, and one posting offers a hundred and seventy-eight dollars a day in expenses, seven days a week."
+ },
+ {
+  "n": 87,
+  "start": 636.22,
+  "end": 640.16,
+  "text": "Most of those workers will never go near a steam generator bowl."
+ },
+ {
+  "n": 88,
+  "start": 640.56,
+  "end": 653.41,
+  "text": "In 2023, American plants monitored more than ninety-three thousand people, and the ones who picked up any measurable dose averaged about 0.16 rem, a small slice of the limit."
+ },
+ {
+  "n": 89,
+  "start": 654.15,
+  "end": 659.01,
+  "text": "Robots, better shielding and cleaner water chemistry did most of that work."
+ },
+ {
+  "n": 90,
+  "start": 659.75,
+  "end": 668.59,
+  "text": "The old arithmetic still holds, though: when a job is too hot for the machine, the plant goes looking for a person whose file still says zero."
+ },
+ {
+  "n": 91,
+  "start": 669.56,
+  "end": 671.86,
+  "text": "Look at the counter in the corner one more time."
+ },
+ {
+  "n": 92,
+  "start": 672.13,
+  "end": 682.06,
+  "text": "If you'd gone through that hole at the start of this video and stayed in there while I talked, you'd already be past the five rem the law allows for an entire year."
+ },
+ {
+  "n": 93,
+  "start": 682.83,
+  "end": 686.99,
+  "text": "The plant would have thanked you, paid you, and told you to come back next year."
+ },
+ {
+  "n": 94,
+  "start": 687.62,
+  "end": 689.33,
+  "text": "So here's my question for you."
+ },
+ {
+  "n": 95,
+  "start": 689.74,
+  "end": 695.93,
+  "text": "If someone offered you a few thousand dollars to spend twelve minutes in that bowl, would you take the jump?"
+ },
+ {
+  "n": 96,
+  "start": 696.51,
+  "end": 699.55,
+  "text": "Tell me in the comments, and tell me what number it would take."
+ }
+]
