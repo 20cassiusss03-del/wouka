@@ -1,0 +1,424 @@
+This burger costs fifteen dollars at the counter.
+Delivered to your door, the same burger costs thirty-eight.
+Here's how that happens.
+It's a Tuesday night, it's raining, and you're not cooking.
+You open the app.
+There's a burger place two miles away that you actually like, and on its own menu, on the little chalkboard by the register, the double cheeseburger meal is fifteen dollars.
+In the app, it's seventeen fifty.
+Fine. You're not going out in this.
+You add it to the cart.
+You hit checkout.
+And the number starts to grow.
+There's a delivery fee.
+There's a service fee.
+There's a small order fee, because apparently one dinner counts as small.
+There's tax.
+There's the tip screen, with the middle button already lit up.
+And the fifteen-dollar burger is now thirty-eight dollars.
+You didn't pick anything new.
+It's the same burger.
+You pay, because it's raining, and because that's what everybody does.
+And while you wait, you do the thing everybody does.
+You get mad at the app.
+Because obviously somebody is getting rich off your thirty-eight dollars, and the obvious suspect is the company whose logo is on the screen.
+Here's the problem with that.
+DoorDash is the biggest food delivery company in America.
+Last year, people spent a hundred and two billion dollars through it.
+And if you take everything the company kept from all of that and divide it by the number of orders, DoorDash made about twenty-nine cents of profit on an average order.
+Twenty-nine cents.
+The year before that, it was about five cents.
+The year before that, it lost money on every order it delivered.
+So if the app isn't taking your money, who is?
+The restaurant says it's the app.
+The driver says it's the app and the restaurant.
+The app says it's barely breaking even.
+And every one of them is, in a very specific way, telling the truth.
+That's what this video's about.
+By the end, I'm going to hand you a receipt for that thirty-eight-dollar burger, line by line, and you'll see exactly where every dollar went.
+And spoiler: most of it didn't go where you think.
+But before we get to the money, it helps to remember what delivery used to look like, because it explains why it's so expensive now.
+Twenty years ago, if you wanted food delivered, you had about two choices.
+Pizza, or Chinese food.
+And both of them worked the same way.
+The restaurant had its own drivers.
+Usually a couple of guys with their own cars and a lit-up sign on the roof, paid a small wage plus tips, sitting in the back between runs.
+The restaurant set a delivery area, a few miles, and it priced the food knowing it had to pay those drivers.
+Delivery was part of the business, not something bolted on top of it.
+And the reason only pizza and Chinese food did it is that those were the foods that survived a twenty-minute car ride and made enough money per order to pay somebody to drive.
+A burger place, a taco place, a sushi bar, they couldn't make the math work, so they didn't deliver.
+Then the apps came along with a pitch.
+You don't need your own drivers.
+You don't need a website.
+We'll bring you the customers, we'll bring the driver, we'll handle the payment.
+You just cook.
+And suddenly every restaurant in town could deliver.
+What nobody said out loud is that the cost of delivery didn't disappear.
+The driver still needs to get paid.
+The car still needs gas.
+Somebody still has to answer the phone when the order's wrong.
+The app just took all of those costs out of the kitchen and put them on your screen, as fees.
+And then, when the pandemic closed dining rooms in 2020, almost every restaurant in America had to plug into the apps just to stay open.
+That's the world we're living in now.
+Let's start with a pizza.
+In 2019, a guy named Ranjan Roy, who writes a newsletter about the tech business, got a call from a friend.
+His friend ran a small pizza place.
+Takeout only, a few tables, the kind of place that lives on regulars.
+And the friend had just found out that his restaurant was on DoorDash.
+He'd never signed up.
+Nobody had asked him.
+DoorDash had just put his menu in the app on its own.
+And it had made a mistake.
+His deluxe pizza, the one with all the toppings, cost twenty-four dollars at the counter.
+In the app, DoorDash was selling it for sixteen.
+Now here's the part that makes no sense, until you understand how this business works.
+When somebody ordered that pizza in the app, a driver would show up at the counter, and pay the restaurant the full twenty-four dollars.
+DoorDash charged the customer sixteen.
+And paid the restaurant twenty-four.
+It was losing eight dollars on every pizza, on purpose, just to have that restaurant in the app.
+So the two of them did what any reasonable person would do.
+They ordered ten pizzas.
+From the pizza place.
+Through DoorDash.
+Delivered to a friend's house.
+They paid DoorDash a hundred and sixty dollars.
+A driver walked into the restaurant and paid the owner two hundred and forty.
+Each pizza cost about seven dollars to make, with the box.
+So after everything, the owner came out ten dollars ahead, just for selling his own pizzas to himself.
+Then they realized they didn't even need to put toppings on them.
+It's a funny story.
+But it's also the whole business in one move.
+DoorDash will lose money on an order if it means the restaurant is in the app, the customer is in the habit, and the competition isn't.
+Keep that in mind, because it explains almost everything that happens to your thirty-eight dollars.
+So let's build the receipt.
+Up in the corner, that's your order.
+Right now it just says what you paid.
+Every chapter, we're going to add one line to it, until we know where all of it went.
+First, let's get the average right, because your burger night isn't the average.
+DoorDash reports how much money moved through its app in a year.
+In 2025, it was a hundred and two billion dollars.
+That's everything customers paid: the food, the fees, the tips, the taxes.
+It handled about three point two billion orders.
+Divide one by the other, and the average order comes out to about thirty-two dollars.
+So let's use that.
+Thirty-two dollars and sixteen cents.
+Now, how much of that does DoorDash actually keep?
+Its own annual report answers that.
+Out of every dollar that goes through the app, DoorDash keeps about thirteen and a half cents as revenue.
+On a thirty-two-dollar order, that's four dollars and thirty-two cents.
+Four thirty-two.
+That's the whole pile DoorDash gets to play with.
+Everything else, about twenty-seven dollars and eighty-four cents, goes straight back out the door to somebody else.
+To the restaurant.
+To the driver.
+To the government, as sales tax.
+We'll get to all of them.
+But first, let's see what happens to DoorDash's four dollars.
+The first thing that eats it is what the company calls cost of revenue.
+That sounds boring.
+It isn't.
+It's the credit card fees on your order.
+It's the insurance on the driver while they're carrying your food.
+It's customer support, the person you talk to when your fries don't show up.
+And it's refunds.
+Every time an order goes wrong and the app gives you your money back, that money comes out of here.
+Every order that gets canceled after the restaurant already made the food, somebody still paid for that food.
+Out of your four thirty-two, all of that takes about two dollars and twelve cents.
+Next is marketing.
+Seventy-eight cents of your order goes to getting you, and people like you, to keep opening the app.
+The promo codes. The free delivery for your first month. The ads during the football game.
+Remember the pizza?
+That's marketing too.
+Then there's the engineers who build the app, about forty-five cents.
+The offices, the lawyers, the executives, about fifty cents.
+The servers and equipment wearing out, about twenty-four cents.
+And what's left, after taxes and everything else, is the bottom line.
+In 2025, DoorDash's profit was nine hundred and thirty-five million dollars.
+That sounds like a lot until you divide it by three point two billion orders.
+Twenty-nine cents.
+So the first line on your receipt: the app that everyone's furious at took four dollars and thirty-two cents from your order, and after paying for everything the app needs to exist, it kept twenty-nine cents.
+And that's the best year it has ever had.
+In 2024, it kept about five cents an order.
+In 2023, it lost more than half a billion dollars.
+So if you were hoping the villain was a company swimming in your money, I'm sorry.
+The villain is a company that has figured out how to lose money slightly less each year.
+Which means the other twenty-seven dollars and eighty-four cents is where we need to look.
+So let's go to the kitchen.
+Here's something most people never think about.
+How much money does a restaurant actually make?
+Not revenue. Profit. What's left after the food, the rent, the staff, the gas, the insurance.
+The National Restaurant Association surveys hundreds of restaurants every year.
+In its 2025 report, the typical full-service restaurant, the kind with a waiter, kept two point eight percent of its sales as profit before taxes.
+A fast-food place kept four percent.
+Two point eight percent.
+On a fifteen-dollar burger, that's about forty-two cents.
+That's the restaurant's whole reward for cooking your dinner.
+Now here's what DoorDash charges the restaurant for being in the app.
+There are plans.
+On the basic plan, DoorDash takes fifteen percent of the food price.
+On the middle plan, twenty-five percent.
+On the top plan, the one with the most visibility and the biggest delivery area, thirty percent.
+Put those two numbers next to each other.
+The restaurant keeps about three percent of a sale.
+The app wants fifteen to thirty percent of it.
+On a fifteen-dollar burger, the commission alone can be four and a half dollars, for a meal that makes the restaurant forty-two cents.
+There is no version of that math where the restaurant keeps its prices the same and survives.
+So it doesn't.
+Remember the chalkboard?
+Fifteen dollars at the counter, seventeen fifty in the app?
+That's not a coincidence, and it's not greed.
+It's the only way the numbers work.
+A 2025 analysis of delivery menus found that restaurants typically list their food about ten to twenty percent higher in the apps than in their own dining rooms, around fifteen percent on average.
+Some go much further.
+One study of McDonald's orders found that the same food ordered through DoorDash, with all the fees, cost about seventy-one percent more than buying it at the counter.
+So the second line on your receipt is one you never see.
+The markup.
+Before a single fee shows up at checkout, you've already paid the restaurant extra, just so it can pay DoorDash, just so it can stay in the app.
+And here's the twist.
+The restaurant hates this too.
+Most restaurant owners will tell you delivery is something they have to do, not something they want to do.
+If they leave the apps, their competitors don't, and the customers go where the button is.
+It's like a mall that charges a third of your sales for a spot near the entrance.
+You can leave.
+But the people only walk past the entrance.
+So the restaurant raises its prices, the customer pays more, and the restaurant still makes about forty-two cents.
+Nobody in this chapter got rich.
+Let's check the receipt so far.
+Line one, the app. Four dollars and thirty-two cents of revenue, twenty-nine cents of profit.
+Line two, the markup. A couple of dollars you paid before you ever reached checkout, so the restaurant can afford the app.
+And the restaurant itself, after all that, still keeping somewhere around forty cents.
+So far we've got two businesses in this story, and neither of them is making real money off you.
+Which should make you suspicious.
+Because the money went somewhere.
+Let's go find the driver.
+Picture the person who brings your burger.
+They're sitting in a parking lot a mile from the restaurant, with the app open, waiting for a ping.
+It comes.
+It shows a pickup, a drop-off, a distance, and an amount.
+Say, six dollars and fifty cents for seven miles.
+They have a few seconds to accept.
+Most people assume delivery drivers work for DoorDash.
+They don't.
+They're independent contractors.
+Which means their gas, their car, their insurance, their phone plan, all of that is on them.
+The six fifty isn't an hourly wage.
+It's what's left to cover the car, and then, maybe, the person.
+And there are a lot of them.
+DoorDash says more than eight million people delivered for it in the United States in 2025, and together they earned almost twenty billion dollars, tips included.
+But here's the number that surprises people.
+The average Dasher worked about four hours a week, for about ten weeks a year.
+This isn't a job for most of them.
+It's something people do between other things, when rent's due.
+Now, the tip.
+DoorDash says, and says it clearly in its annual report, that Dashers receive one hundred percent of the tips.
+Today, that's true.
+It wasn't always.
+From 2017 to 2019, DoorDash had a pay model where each order came with a guaranteed minimum for the driver.
+Say, seven dollars.
+If you tipped three dollars, DoorDash would pay four, and your tip would fill the rest.
+The driver still got seven.
+Your tip didn't give the driver more money.
+It gave DoorDash a discount.
+In 2025, the New York attorney general settled with DoorDash over exactly that.
+Sixteen point seven five million dollars, paid back to about sixty-three thousand drivers.
+So the next time the tip screen asks you for twenty percent, just know that, at one point, a lot of that was quietly going to the company.
+Then cities started stepping in.
+New York City passed a minimum pay rule for delivery workers.
+As of this year, it's twenty-two dollars and thirteen cents an hour, before tips.
+That's a real raise.
+And now, go back and read DoorDash's annual report, where it explains what these laws do.
+In its own words, laws like that have caused the company to increase the fees it charges consumers.
+So the raise is real.
+And you're the one paying for it, at checkout, in a line called a fee.
+That's the third line on your receipt.
+The driver.
+The six fifty, or whatever it was, plus every cent of the tip you added.
+And the driver, after gas, is not getting rich either.
+So far, nobody's getting rich.
+The app keeps twenty-nine cents.
+The restaurant keeps forty-two.
+The driver keeps what's left after the gas tank.
+So where does all this money feel like it's going?
+To answer that, you have to look at the fees themselves.
+Not what they pay for.
+How they're built.
+Here's a story from the company that used to own this market.
+Grubhub.
+In December 2024, the Federal Trade Commission and the state of Illinois took Grubhub to court.
+They said a few things.
+They said Grubhub had advertised delivery as cheap or free, and then added fees at the very end that people didn't expect.
+They said that at one point, Grubhub took one fee and split it into two separate fees, a service fee and a delivery fee, so each one looked smaller.
+They said it had told drivers they could make far more than most of them actually did.
+And they said it had listed restaurants in the app that had never agreed to be there.
+Sound familiar?
+Like a pizza place that never signed up?
+The case put the penalty at a hundred and forty million dollars.
+Grubhub paid twenty-five million, because, according to the regulators, that was all it could afford.
+And in August of this year, the FTC mailed out almost twenty-four million dollars in refunds to people who'd been hit by those fees.
+Now, I'm not telling you every app does this today.
+I'm telling you that the way a fee is designed matters as much as the fee itself.
+A thirty-eight-dollar order that shows you thirty-eight dollars on the first screen, you might not buy.
+A seventeen-fifty burger that becomes thirty-eight one line at a time, you already said yes to.
+That's the fourth line of the receipt.
+Not a dollar amount.
+A design.
+Now, there's one more thing the app decides for you, and you've probably never noticed it.
+Which kitchen your food comes from.
+In December 2020, the biggest YouTuber on the planet launched a burger chain.
+MrBeast Burger.
+And within two years, it had something like seventeen hundred locations around the world.
+Seventeen hundred.
+Faster than almost any restaurant chain in history.
+Here's how.
+There was only ever one real MrBeast Burger restaurant you could walk into.
+Every other location was a kitchen that already existed.
+A company called Virtual Dining Concepts signed up regular restaurants, gave them the recipes, the packaging, and the name, and put "MrBeast Burger" in the delivery apps.
+The kitchen cooked it next to its own menu.
+The app delivered it.
+To you, it looked like a restaurant.
+It was a button.
+And then the reviews came in.
+In 2023, MrBeast sued the company behind the brand, to get out of the deal.
+His lawsuit quoted customers calling the food disgusting, revolting, and inedible.
+One parent said he tracked down the kitchen that had made his kids' burgers.
+It was a 7-Eleven.
+The company sued him back, and claimed more than a hundred million dollars in damages.
+The lesson isn't about MrBeast.
+It's that in a delivery app, the restaurant is whatever the app says it is.
+A name, a photo, and a button.
+You have no idea whose kitchen it is, how many brands that kitchen is pretending to be, or who's actually cooking.
+And the more brands a kitchen can run from one stove, the more orders it can squeeze out of the same rent.
+That's the other half of the markup.
+You're not always paying for a restaurant.
+Sometimes you're paying for a logo.
+So why don't the apps just charge less?
+If the business is this thin, why not make it cheaper and win everybody?
+Because they tried.
+Remember the pizza?
+For years, the whole industry sold food below cost, handed out free delivery, and paid restaurants more than it charged customers.
+It was a war.
+And the thing about a price war is that somebody has to lose.
+Grubhub lost.
+In 2021, a European company called Just Eat Takeaway bought Grubhub for seven point three billion dollars.
+In 2024, it sold it to a food company called Wonder for six hundred and fifty million.
+And that price included about five hundred million dollars of Grubhub's debt.
+So the business that was worth seven point three billion was sold, three years later, for something closer to a hundred and fifty million dollars in actual value.
+Maybe less.
+That's what happens when you're not the biggest in a business like this.
+The margins are so thin that only the one with the most orders gets to survive.
+So DoorDash doesn't get cheaper.
+It gets bigger.
+It buys more restaurants into the app, more drivers onto the road, and more customers into a habit.
+It even bought Deliveroo in Britain, last year.
+And it has a second trick.
+Subscriptions.
+DashPass.
+You pay a monthly fee, and your delivery fee drops.
+DoorDash says more than thirty-five million people around the world now pay for DashPass or one of its sister programs.
+For you, that feels like a discount.
+For the company, it's money that shows up every month, whether you order or not.
+And it makes you a lot less likely to open the other app.
+Then there's advertising.
+When you search for pizza and the first result says "sponsored," a restaurant paid for that spot.
+In the same app it already pays a commission to.
+And this is not a small side business.
+Uber, which owns Uber Eats, said that in 2025 the advertising revenue in its delivery business grew by more than half a billion dollars in a single year.
+Half a billion, on top of what it already made.
+Restaurants are paying to be seen by you, inside an app they already pay to be in.
+And every sponsored result is a restaurant that has to make that money back somewhere.
+You already know where.
+The menu price.
+So here's the business model, and it's not "charge you a lot."
+It's: be the one app everyone opens, make the margin on each order tiny, and make the money on the volume, the subscriptions, and the ads around it.
+Your thirty-eight dollars isn't the prize.
+Your habit is.
+Now let's see what happens when a city tries to stop this.
+In 2020, during the pandemic, New York City put a cap on what the apps could charge restaurants.
+Fifteen percent for delivery, plus five percent for everything else.
+The apps sued.
+For years.
+And in April 2025, they settled.
+The city agreed that the apps could charge more, up to forty-three percent, if the restaurant chose extra services like better placement in the app.
+Forty-three percent.
+That's a restaurant handing over almost half of every order, to be seen.
+And California.
+In 2020, the state was about to make gig drivers employees, with benefits.
+So Uber, Lyft, DoorDash and Instacart put their own question on the ballot, called Proposition 22, to keep drivers as contractors.
+They spent more than two hundred million dollars campaigning for it, the most expensive ballot measure in the state's history.
+DoorDash's share was about forty-eight million.
+And it passed.
+So when you see a company that keeps twenty-nine cents an order spend forty-eight million dollars on a single vote, you understand what it's actually protecting.
+Not the twenty-nine cents.
+The model.
+Before we close the receipt, let's do one more piece of math.
+Forget the app for a second.
+Let's figure out what it would cost to deliver one dinner, fairly, if you designed it yourself.
+Say a delivery takes about half an hour of somebody's time, from the moment they accept the order, to driving to the restaurant, waiting for the bag, and driving to your door.
+New York City says a delivery worker should earn at least twenty-two dollars and thirteen cents an hour.
+Half an hour of that is about eleven dollars.
+Then the car.
+The IRS, the people who decide how much a mile of driving costs for taxes, set that at seventy cents a mile in 2025.
+That's gas, wear, insurance, the car slowly losing value.
+Seven miles there and back is about five dollars.
+So before anyone makes a cent of profit, before the app, before the card fees, before a single refund, just paying one person fairly for half an hour, with their car, costs around sixteen dollars.
+For one burger.
+And now look at your receipt again.
+The delivery fee, the service fee, and the small order fee on a typical order add up to maybe eight or ten dollars.
+Plus the tip.
+That's roughly the number.
+The price isn't made up.
+If anything, it's the true cost of the car ride, spread out across three lines so it doesn't hurt as much.
+This is the part nobody wants to hear, including me.
+The expensive thing isn't the app.
+It's the car.
+Delivery is a person in a car driving across town for one meal.
+And no amount of software makes that cheap.
+Okay.
+Let's finish the receipt.
+You paid thirty-eight dollars for a fifteen-dollar burger.
+Here's where it went.
+About two fifty went to the markup, the extra the restaurant charged in the app just to stay in business.
+Another chunk of the menu price went back to DoorDash as commission, which is the restaurant's money becoming the app's money.
+The delivery fee, the service fee, and the small order fee went to DoorDash too.
+From all of that, DoorDash paid the credit card company, the insurance company, the support team, the refunds for someone else's missing fries, and the ad during the football game.
+And it kept, on average, about twenty-nine cents.
+The driver got their pay and every cent of your tip, and then spent a good part of it on gas.
+The restaurant got the rest of the food price, and after the rent and the staff and the ingredients, kept maybe forty cents.
+And the government got the tax.
+Look at the bottom of the receipt.
+Nobody on it got rich from your burger.
+Not one of them.
+So who's taking your money?
+Here's the honest answer.
+Nobody's taking it.
+You're buying something.
+And it isn't the burger.
+You're buying the fact that you didn't have to go out in the rain.
+That's the real product.
+And it turns out that moving one hot meal two miles, to one person, right now, is incredibly expensive.
+It's a person, a car, gas, insurance, a phone, a card transaction, a support line, and a refund budget for when it goes wrong, all for one dinner.
+Thirty-eight dollars isn't a scam.
+It's roughly what that costs.
+The dirty part is that you're not shown it all at once.
+So here's what you can actually do with this.
+If you can pick it up yourself, do it.
+On pickup orders, DoorDash only takes about six percent from the restaurant, so the restaurant keeps more, and you skip the delivery fees completely.
+If the restaurant has its own website for ordering, use it.
+Some restaurants pay the app nothing when you order through their own site, even if a DoorDash driver brings the food.
+If you order a lot, do the math on the subscription.
+If you're paying for DashPass and ordering twice a month, it's probably saving you money.
+If you're paying for it and ordering once every two months, it isn't a discount.
+It's a donation.
+And when you tip, tip the driver in the app, because today, all of it goes to them.
+That wasn't always true, and it's worth knowing that it is now.
+And every once in a while, look at the menu at the counter.
+Compare it to the app.
+You'll see the markup with your own eyes.
+And if it's raining, and you just want the burger?
+Order it.
+Just know what you're paying for.
+The next time the number grows at checkout, you'll know the app isn't getting rich, the restaurant isn't getting rich, and the driver definitely isn't.
+You're paying for a machine that's expensive to run, designed to show you the price one line at a time.
+And that's the dirty margin.
+So tell me in the comments.
+What's the most you've ever paid for a delivery order?
+And what did you order?
