@@ -21,7 +21,7 @@ def C(a, b, label):
 
 # ---------------------------------------------------------------- ХУК 1–14
 S(1, 2, "platform", "The raccoon in the yellow suit standing on a steel platform, looking up at a small round dark hole in a huge curved steel wall just above his head, seen from below.")
-S(1, 2, "platform", "A small round manway hole in a giant curved steel tank, seen close, a thin glow of light at its edge, the opening barely wider than a car tyre.")
+S(1, 2, "platform", "A small round manway hole in a giant curved steel tank, seen close: an open empty dark hole with no door, no cover and no lid, a thin green glow at its rim, the opening barely wider than a car tyre.")
 S(3, 3, "platform", "The raccoon in the yellow suit seen full length from the front, arms slightly out, the suit puffed up with air, a thick air hose running from his back.")
 S(3, 3, "platform", "The timekeeper standing beside the raccoon in the yellow suit, holding up a big silver stopwatch with his thumb on the button.")
 S(4, 4, "plant", "Wide view of a nuclear power plant at dusk, two big cooling towers with white steam, a domed reactor building beside them.")
