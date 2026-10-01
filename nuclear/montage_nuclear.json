@@ -934,35 +934,35 @@
   {
    "id": "n128",
    "in_seconds": 672.13,
-   "out_seconds": 677.1,
+   "out_seconds": 676.33,
    "source": "nuclear/n128.jpg",
    "animation": "zoom-out"
   },
   {
    "id": "n129",
-   "in_seconds": 677.1,
-   "out_seconds": 682.84,
+   "in_seconds": 676.33,
+   "out_seconds": 681.3,
    "source": "nuclear/n129.jpg",
    "animation": "zoom-in"
   },
   {
    "id": "n130",
-   "in_seconds": 682.83,
-   "out_seconds": 687.62,
+   "in_seconds": 681.3,
+   "out_seconds": 686.09,
    "source": "nuclear/n130.jpg",
    "animation": "zoom-out"
   },
   {
    "id": "n131",
-   "in_seconds": 687.62,
-   "out_seconds": 696.51,
+   "in_seconds": 686.09,
+   "out_seconds": 694.98,
    "source": "nuclear/n131.jpg",
    "animation": "zoom-in"
   },
   {
    "id": "n132",
-   "in_seconds": 696.51,
-   "out_seconds": 700.35,
+   "in_seconds": 694.98,
+   "out_seconds": 698.82,
    "source": "nuclear/n132.jpg",
    "animation": "zoom-out"
   }
@@ -977,7 +977,7 @@
   {
    "type": "dose_counter",
    "in_seconds": 71.58,
-   "out_seconds": 700.35,
+   "out_seconds": 698.82,
    "remPerHour": 25,
    "yearRem": 0.62,
    "limitRem": 5

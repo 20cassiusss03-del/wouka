@@ -1145,7 +1145,7 @@
  {
   "id": "n128",
   "start": 672.13,
-  "dur": 4.97,
+  "dur": 4.2,
   "kind": "scene",
   "img": "n128.jpg",
   "chart": "",
@@ -1153,8 +1153,8 @@
  },
  {
   "id": "n129",
-  "start": 677.1,
-  "dur": 5.74,
+  "start": 676.33,
+  "dur": 4.97,
   "kind": "scene",
   "img": "n129.jpg",
   "chart": "",
@@ -1162,7 +1162,7 @@
  },
  {
   "id": "n130",
-  "start": 682.83,
+  "start": 681.3,
   "dur": 4.79,
   "kind": "scene",
   "img": "n130.jpg",
@@ -1171,7 +1171,7 @@
  },
  {
   "id": "n131",
-  "start": 687.62,
+  "start": 686.09,
   "dur": 8.89,
   "kind": "scene",
   "img": "n131.jpg",
@@ -1180,7 +1180,7 @@
  },
  {
   "id": "n132",
-  "start": 696.51,
+  "start": 694.98,
   "dur": 3.84,
   "kind": "scene",
   "img": "n132.jpg",
