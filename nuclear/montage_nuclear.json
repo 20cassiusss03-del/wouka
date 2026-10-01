@@ -1,0 +1,992 @@
+{
+ "theme": "clean-professional",
+ "cuts": [
+  {
+   "id": "n001",
+   "in_seconds": 0.0,
+   "out_seconds": 4.79,
+   "source": "nuclear/n001.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n002",
+   "in_seconds": 4.79,
+   "out_seconds": 10.04,
+   "source": "nuclear/n002.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n003",
+   "in_seconds": 10.04,
+   "out_seconds": 15.25,
+   "source": "nuclear/n003.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n004",
+   "in_seconds": 15.24,
+   "out_seconds": 21.01,
+   "source": "nuclear/n004.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n005",
+   "in_seconds": 21.01,
+   "out_seconds": 23.69,
+   "source": "nuclear/n005.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n006",
+   "in_seconds": 23.7,
+   "out_seconds": 26.93,
+   "source": "nuclear/n006.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n007",
+   "in_seconds": 26.92,
+   "out_seconds": 32.13,
+   "source": "nuclear/n007.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n008",
+   "in_seconds": 32.13,
+   "out_seconds": 37.66,
+   "source": "nuclear/n008.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n009",
+   "in_seconds": 37.66,
+   "out_seconds": 43.04,
+   "source": "nuclear/n009.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n010",
+   "in_seconds": 43.04,
+   "out_seconds": 49.2,
+   "source": "nuclear/n010.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n011",
+   "in_seconds": 49.2,
+   "out_seconds": 54.01,
+   "source": "nuclear/n011.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n012",
+   "in_seconds": 54.01,
+   "out_seconds": 59.14,
+   "source": "nuclear/n012.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n013",
+   "in_seconds": 59.14,
+   "out_seconds": 62.45,
+   "source": "nuclear/n013.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n014",
+   "in_seconds": 62.45,
+   "out_seconds": 67.38,
+   "source": "nuclear/n014.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n015",
+   "in_seconds": 67.38,
+   "out_seconds": 71.58,
+   "source": "nuclear/n015.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n016",
+   "in_seconds": 71.58,
+   "out_seconds": 76.18,
+   "source": "nuclear/n016.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n017",
+   "in_seconds": 76.18,
+   "out_seconds": 81.13,
+   "source": "nuclear/n017.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n018",
+   "in_seconds": 81.13,
+   "out_seconds": 85.79,
+   "source": "nuclear/n018.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n019",
+   "in_seconds": 85.79,
+   "out_seconds": 90.45,
+   "source": "nuclear/n019.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n020",
+   "in_seconds": 90.46,
+   "out_seconds": 95.46,
+   "source": "nuclear/n020.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n021",
+   "in_seconds": 95.46,
+   "out_seconds": 99.03,
+   "source": "nuclear/n021.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n022",
+   "in_seconds": 99.03,
+   "out_seconds": 102.93,
+   "source": "nuclear/n022.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n023",
+   "in_seconds": 102.93,
+   "out_seconds": 110.75,
+   "source": "nuclear/n023.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n024",
+   "in_seconds": 110.75,
+   "out_seconds": 117.16,
+   "source": "nuclear/n024.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n025",
+   "in_seconds": 117.16,
+   "out_seconds": 124.02,
+   "source": "nuclear/n025.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n026",
+   "in_seconds": 124.02,
+   "out_seconds": 132.18,
+   "source": "nuclear/n026.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n027",
+   "in_seconds": 132.18,
+   "out_seconds": 136.59,
+   "source": "nuclear/n027.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n028",
+   "in_seconds": 136.59,
+   "out_seconds": 141.41,
+   "source": "nuclear/n028.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n029",
+   "in_seconds": 141.42,
+   "out_seconds": 149.2,
+   "source": "nuclear/n029.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n030",
+   "in_seconds": 149.2,
+   "out_seconds": 154.19,
+   "source": "nuclear/n030.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n031",
+   "in_seconds": 154.19,
+   "out_seconds": 159.63,
+   "source": "nuclear/n031.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n032",
+   "in_seconds": 159.62,
+   "out_seconds": 163.21,
+   "source": "nuclear/n032.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n033",
+   "in_seconds": 163.21,
+   "out_seconds": 168.09,
+   "source": "nuclear/n033.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n034",
+   "in_seconds": 168.09,
+   "out_seconds": 173.25,
+   "source": "nuclear/n034.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n035",
+   "in_seconds": 173.25,
+   "out_seconds": 182.25,
+   "source": "nuclear/n035.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n036",
+   "in_seconds": 182.25,
+   "out_seconds": 186.42,
+   "source": "nuclear/n036.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n037",
+   "in_seconds": 186.42,
+   "out_seconds": 191.15,
+   "source": "nuclear/n037.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n038",
+   "in_seconds": 191.15,
+   "out_seconds": 194.64,
+   "source": "nuclear/n038.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n039",
+   "in_seconds": 194.64,
+   "out_seconds": 198.56,
+   "source": "nuclear/n039.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n040",
+   "in_seconds": 198.56,
+   "out_seconds": 207.04,
+   "type": "stat_card",
+   "stat": "3 rem",
+   "subtitle": "per quarter · the rule before 1994",
+   "source": "",
+   "accentColor": "#D35400",
+   "backgroundColor": "#F4EBD9"
+  },
+  {
+   "id": "n041",
+   "in_seconds": 207.04,
+   "out_seconds": 211.4,
+   "type": "stat_card",
+   "stat": "5 rem",
+   "subtitle": "per year · the limit since 1994",
+   "source": "",
+   "accentColor": "#D35400",
+   "backgroundColor": "#F4EBD9"
+  },
+  {
+   "id": "n042",
+   "in_seconds": 211.4,
+   "out_seconds": 218.6,
+   "type": "comparison",
+   "title": "One year of radiation",
+   "leftLabel": "Legal limit for a nuclear worker",
+   "leftValue": "50 mSv",
+   "rightLabel": "Average American, all sources",
+   "rightValue": "≈6 mSv",
+   "source": "",
+   "accentColor": "#D35400",
+   "backgroundColor": "#F4EBD9"
+  },
+  {
+   "id": "n043",
+   "in_seconds": 218.6,
+   "out_seconds": 222.2,
+   "source": "nuclear/n043.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n044",
+   "in_seconds": 222.2,
+   "out_seconds": 230.94,
+   "type": "comparison",
+   "title": "One year at the legal limit equals",
+   "leftLabel": "years of ordinary life",
+   "leftValue": "≈8",
+   "rightLabel": "chest X-rays",
+   "rightValue": "≈2,500",
+   "source": "",
+   "accentColor": "#D35400",
+   "backgroundColor": "#F4EBD9"
+  },
+  {
+   "id": "n045",
+   "in_seconds": 230.94,
+   "out_seconds": 233.54,
+   "source": "nuclear/n045.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n046",
+   "in_seconds": 233.54,
+   "out_seconds": 241.76,
+   "source": "nuclear/n046.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n047",
+   "in_seconds": 241.76,
+   "out_seconds": 245.49,
+   "source": "nuclear/n047.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n048",
+   "in_seconds": 245.49,
+   "out_seconds": 249.34,
+   "source": "nuclear/n048.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n049",
+   "in_seconds": 249.34,
+   "out_seconds": 253.65,
+   "source": "nuclear/n049.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n050",
+   "in_seconds": 253.66,
+   "out_seconds": 257.76,
+   "source": "nuclear/n050.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n051",
+   "in_seconds": 257.76,
+   "out_seconds": 263.79,
+   "source": "nuclear/n051.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n052",
+   "in_seconds": 263.79,
+   "out_seconds": 267.67,
+   "source": "nuclear/n052.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n053",
+   "in_seconds": 267.67,
+   "out_seconds": 271.93,
+   "source": "nuclear/n053.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n054",
+   "in_seconds": 271.93,
+   "out_seconds": 278.34,
+   "source": "nuclear/n054.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n055",
+   "in_seconds": 278.34,
+   "out_seconds": 285.49,
+   "source": "nuclear/n055.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n056",
+   "in_seconds": 285.49,
+   "out_seconds": 292.03,
+   "source": "nuclear/n056.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n057",
+   "in_seconds": 292.03,
+   "out_seconds": 298.75,
+   "type": "comparison",
+   "title": "US workers exposed to radiation",
+   "leftLabel": "1978",
+   "leftValue": "44,000",
+   "rightLabel": "1980",
+   "rightValue": "77,000",
+   "source": "",
+   "accentColor": "#D35400",
+   "backgroundColor": "#F4EBD9"
+  },
+  {
+   "id": "n058",
+   "in_seconds": 298.75,
+   "out_seconds": 306.32,
+   "source": "nuclear/n058.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n059",
+   "in_seconds": 306.32,
+   "out_seconds": 313.54,
+   "source": "nuclear/n059.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n060",
+   "in_seconds": 313.54,
+   "out_seconds": 316.23,
+   "source": "nuclear/n060.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n061",
+   "in_seconds": 316.23,
+   "out_seconds": 322.38,
+   "source": "nuclear/n061.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n062",
+   "in_seconds": 322.38,
+   "out_seconds": 328.98,
+   "source": "nuclear/n062.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n063",
+   "in_seconds": 328.98,
+   "out_seconds": 335.37,
+   "source": "nuclear/n063.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n064",
+   "in_seconds": 335.37,
+   "out_seconds": 338.61,
+   "source": "nuclear/n064.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n065",
+   "in_seconds": 338.61,
+   "out_seconds": 344.44,
+   "source": "nuclear/n065.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n066",
+   "in_seconds": 344.44,
+   "out_seconds": 350.95,
+   "source": "nuclear/n066.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n067",
+   "in_seconds": 350.96,
+   "out_seconds": 356.33,
+   "source": "nuclear/n067.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n068",
+   "in_seconds": 356.32,
+   "out_seconds": 362.33,
+   "source": "nuclear/n068.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n069",
+   "in_seconds": 362.34,
+   "out_seconds": 369.29,
+   "source": "nuclear/n069.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n070",
+   "in_seconds": 369.29,
+   "out_seconds": 374.55,
+   "source": "nuclear/n070.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n071",
+   "in_seconds": 374.55,
+   "out_seconds": 380.71,
+   "source": "nuclear/n071.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n072",
+   "in_seconds": 380.71,
+   "out_seconds": 385.52,
+   "source": "nuclear/n072.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n073",
+   "in_seconds": 385.52,
+   "out_seconds": 391.04,
+   "source": "nuclear/n073.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n074",
+   "in_seconds": 391.04,
+   "out_seconds": 396.11,
+   "source": "nuclear/n074.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n075",
+   "in_seconds": 396.11,
+   "out_seconds": 400.99,
+   "source": "nuclear/n075.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n076",
+   "in_seconds": 400.99,
+   "out_seconds": 406.15,
+   "source": "nuclear/n076.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n077",
+   "in_seconds": 406.15,
+   "out_seconds": 409.59,
+   "source": "nuclear/n077.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n078",
+   "in_seconds": 409.59,
+   "out_seconds": 416.39,
+   "source": "nuclear/n078.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n079",
+   "in_seconds": 416.39,
+   "out_seconds": 420.94,
+   "source": "nuclear/n079.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n080",
+   "in_seconds": 420.94,
+   "out_seconds": 425.81,
+   "source": "nuclear/n080.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n081",
+   "in_seconds": 425.81,
+   "out_seconds": 430.96,
+   "source": "nuclear/n081.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n082",
+   "in_seconds": 430.96,
+   "out_seconds": 436.01,
+   "source": "nuclear/n082.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n083",
+   "in_seconds": 436.01,
+   "out_seconds": 440.32,
+   "source": "nuclear/n083.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n084",
+   "in_seconds": 440.32,
+   "out_seconds": 444.94,
+   "source": "nuclear/n084.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n085",
+   "in_seconds": 444.94,
+   "out_seconds": 452.15,
+   "source": "nuclear/n085.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n086",
+   "in_seconds": 452.15,
+   "out_seconds": 456.27,
+   "source": "nuclear/n086.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n087",
+   "in_seconds": 456.27,
+   "out_seconds": 461.64,
+   "source": "nuclear/n087.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n088",
+   "in_seconds": 461.63,
+   "out_seconds": 467.27,
+   "source": "nuclear/n088.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n089",
+   "in_seconds": 467.28,
+   "out_seconds": 471.72,
+   "source": "nuclear/n089.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n090",
+   "in_seconds": 471.72,
+   "out_seconds": 476.16,
+   "source": "nuclear/n090.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n091",
+   "in_seconds": 476.17,
+   "out_seconds": 480.92,
+   "source": "nuclear/n091.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n092",
+   "in_seconds": 480.92,
+   "out_seconds": 487.47,
+   "source": "nuclear/n092.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n093",
+   "in_seconds": 487.47,
+   "out_seconds": 493.42,
+   "source": "nuclear/n093.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n094",
+   "in_seconds": 493.42,
+   "out_seconds": 499.67,
+   "source": "nuclear/n094.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n095",
+   "in_seconds": 499.67,
+   "out_seconds": 504.27,
+   "source": "nuclear/n095.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n096",
+   "in_seconds": 504.27,
+   "out_seconds": 509.17,
+   "source": "nuclear/n096.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n097",
+   "in_seconds": 509.17,
+   "out_seconds": 513.16,
+   "source": "nuclear/n097.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n098",
+   "in_seconds": 513.16,
+   "out_seconds": 515.72,
+   "source": "nuclear/n098.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n099",
+   "in_seconds": 515.72,
+   "out_seconds": 522.79,
+   "source": "nuclear/n099.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n100",
+   "in_seconds": 522.79,
+   "out_seconds": 526.92,
+   "source": "nuclear/n100.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n101",
+   "in_seconds": 526.92,
+   "out_seconds": 533.3,
+   "source": "nuclear/n101.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n102",
+   "in_seconds": 533.3,
+   "out_seconds": 540.68,
+   "source": "nuclear/n102.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n103",
+   "in_seconds": 540.67,
+   "out_seconds": 548.5,
+   "source": "nuclear/n103.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n104",
+   "in_seconds": 548.5,
+   "out_seconds": 553.24,
+   "source": "nuclear/n104.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n105",
+   "in_seconds": 553.24,
+   "out_seconds": 558.32,
+   "type": "stat_card",
+   "stat": "309,932",
+   "subtitle": "nuclear workers in France, the UK and the US · INWORKS, 2023",
+   "source": "",
+   "accentColor": "#D35400",
+   "backgroundColor": "#F4EBD9"
+  },
+  {
+   "id": "n106",
+   "in_seconds": 558.32,
+   "out_seconds": 566.22,
+   "type": "stat_card",
+   "stat": "+2–3%",
+   "subtitle": "relative risk of cancer death · one full year at the US limit",
+   "source": "",
+   "accentColor": "#D35400",
+   "backgroundColor": "#F4EBD9"
+  },
+  {
+   "id": "n107",
+   "in_seconds": 566.22,
+   "out_seconds": 568.81,
+   "source": "nuclear/n107.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n108",
+   "in_seconds": 568.81,
+   "out_seconds": 573.54,
+   "source": "nuclear/n108.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n109",
+   "in_seconds": 573.54,
+   "out_seconds": 578.97,
+   "source": "nuclear/n109.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n110",
+   "in_seconds": 578.97,
+   "out_seconds": 581.32,
+   "source": "nuclear/n110.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n111",
+   "in_seconds": 581.32,
+   "out_seconds": 588.92,
+   "source": "nuclear/n111.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n112",
+   "in_seconds": 588.92,
+   "out_seconds": 594.02,
+   "source": "nuclear/n112.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n113",
+   "in_seconds": 594.01,
+   "out_seconds": 599.42,
+   "source": "nuclear/n113.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n114",
+   "in_seconds": 599.43,
+   "out_seconds": 604.11,
+   "source": "nuclear/n114.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n115",
+   "in_seconds": 604.11,
+   "out_seconds": 609.21,
+   "source": "nuclear/n115.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n116",
+   "in_seconds": 609.2,
+   "out_seconds": 614.46,
+   "source": "nuclear/n116.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n117",
+   "in_seconds": 614.46,
+   "out_seconds": 618.95,
+   "source": "nuclear/n117.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n118",
+   "in_seconds": 618.95,
+   "out_seconds": 623.65,
+   "source": "nuclear/n118.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n119",
+   "in_seconds": 623.65,
+   "out_seconds": 629.76,
+   "source": "nuclear/n119.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n120",
+   "in_seconds": 629.76,
+   "out_seconds": 636.22,
+   "source": "nuclear/n120.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n121",
+   "in_seconds": 636.22,
+   "out_seconds": 640.56,
+   "source": "nuclear/n121.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n122",
+   "in_seconds": 640.56,
+   "out_seconds": 646.98,
+   "source": "nuclear/n122.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n123",
+   "in_seconds": 646.98,
+   "out_seconds": 654.15,
+   "type": "stat_card",
+   "stat": "0.16 rem",
+   "subtitle": "average measurable dose, US reactor workers, 2023",
+   "source": "",
+   "accentColor": "#D35400",
+   "backgroundColor": "#F4EBD9"
+  },
+  {
+   "id": "n124",
+   "in_seconds": 654.15,
+   "out_seconds": 659.75,
+   "source": "nuclear/n124.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n125",
+   "in_seconds": 659.75,
+   "out_seconds": 664.17,
+   "source": "nuclear/n125.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n126",
+   "in_seconds": 664.17,
+   "out_seconds": 669.56,
+   "source": "nuclear/n126.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n127",
+   "in_seconds": 669.56,
+   "out_seconds": 672.13,
+   "source": "nuclear/n127.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n128",
+   "in_seconds": 672.13,
+   "out_seconds": 677.1,
+   "source": "nuclear/n128.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n129",
+   "in_seconds": 677.1,
+   "out_seconds": 682.84,
+   "source": "nuclear/n129.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n130",
+   "in_seconds": 682.83,
+   "out_seconds": 687.62,
+   "source": "nuclear/n130.jpg",
+   "animation": "zoom-out"
+  },
+  {
+   "id": "n131",
+   "in_seconds": 687.62,
+   "out_seconds": 696.51,
+   "source": "nuclear/n131.jpg",
+   "animation": "zoom-in"
+  },
+  {
+   "id": "n132",
+   "in_seconds": 696.51,
+   "out_seconds": 700.35,
+   "source": "nuclear/n132.jpg",
+   "animation": "zoom-out"
+  }
+ ],
+ "overlays": [
+  {
+   "type": "dose_counter",
+   "in_seconds": 67.38,
+   "out_seconds": 71.58,
+   "remPerHour": 0.0
+  },
+  {
+   "type": "dose_counter",
+   "in_seconds": 71.58,
+   "out_seconds": 700.35,
+   "remPerHour": 25,
+   "yearRem": 0.62,
+   "limitRem": 5
+  }
+ ],
+ "audio": {
+  "narration": {
+   "src": "nuclear/voice.mp3",
+   "volume": 1.0
+  }
+ }
+}
